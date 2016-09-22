@@ -1,0 +1,1146 @@
+ID0, Vecinos: {0: [59], 1: [1093], 2: [380], 3: [511], 4: [348], 5: [512], 6: [955]}, Completo: True, Conexion: 36
+ID59, Vecinos: {0: [1039], 1: [819], 2: [240], 3: [517], 4: [208], 5: [579], 6: [435]}, Completo: True, Conexion: 10
+ID1039, Vecinos: {0: [639], 1: [837], 2: [687], 3: [863], 4: [838], 5: [282], 6: [387]}, Completo: True, Conexion: 18
+ID639, Vecinos: {0: [339], 1: [286], 2: [365], 3: [144], 4: [4]}, Completo: True, Conexion: 11
+ID339, Vecinos: {0: [52]}, Completo: True, Conexion: 13
+ID52, Vecinos: {0: [710], 1: [989], 2: [652], 3: [944], 4: [561], 5: [759], 6: [51]}, Completo: True, Conexion: 29
+ID710, Vecinos: {0: [36]}, Completo: True, Conexion: 19
+ID36, Vecinos: {0: [530], 1: [91], 2: [798], 3: [792], 4: [599], 5: [1133]}, Completo: True, Conexion: 36
+ID530, Vecinos: {0: [5], 1: [692], 2: [356], 3: [117]}, Completo: True, Conexion: 18
+ID5, Vecinos: {0: [54], 1: [149], 2: [346], 3: [634], 4: [963], 5: [810]}, Completo: True, Conexion: 15
+ID54, Vecinos: {0: [462], 1: [390], 2: [1047], 3: [829], 4: [1046]}, Completo: True, Conexion: 7
+ID462, Vecinos: {0: [378], 1: [829], 2: [1071], 3: [643]}, Completo: True, Conexion: 7
+ID378, Vecinos: {0: [518]}, Completo: True, Conexion: 14
+ID518, Vecinos: {0: [382], 1: [652], 2: [291], 3: [346], 4: [971]}, Completo: True, Conexion: 31
+ID382, Vecinos: {0: [270], 1: [52], 2: [293], 3: [325], 4: [619], 5: [282], 6: [1038]}, Completo: True, Conexion: 15
+ID270, Vecinos: {0: [573]}, Completo: True, Conexion: 12
+ID573, Vecinos: {0: [1009], 1: [324], 2: [1011]}, Completo: True, Conexion: 50
+ID1009, Vecinos: {0: [753], 1: [815], 2: [354], 3: [222]}, Completo: True, Conexion: 35
+ID753, Vecinos: {0: [122], 1: [87]}, Completo: True, Conexion: 37
+ID122, Vecinos: {0: [239], 1: [903], 2: [478]}, Completo: True, Conexion: 26
+ID239, Vecinos: {0: [100], 1: [800], 2: [765]}, Completo: True, Conexion: 14
+ID100, Vecinos: {0: [330], 1: [385], 2: [171]}, Completo: True, Conexion: 32
+ID330, Vecinos: {0: [199], 1: [91], 2: [778], 3: [641]}, Completo: True, Conexion: 19
+ID199, Vecinos: {0: [1141], 1: [845], 2: [98], 3: [1013]}, Completo: True, Conexion: 16
+ID1141, Vecinos: {0: [616], 1: [132], 2: [768], 3: [337]}, Completo: True, Conexion: 10
+ID616, Vecinos: {0: [426], 1: [887], 2: [1029], 3: [960], 4: [538]}, Completo: True, Conexion: 13
+ID426, Vecinos: {0: [414]}, Completo: True, Conexion: 26
+ID414, Vecinos: {0: [812], 1: [257], 2: [181]}, Completo: True, Conexion: 33
+ID812, Vecinos: {0: [1047], 1: [296]}, Completo: True, Conexion: 14
+ID1047, Vecinos: {0: [257], 1: [1097], 2: [923], 3: [583], 4: [107]}, Completo: True, Conexion: 8
+ID257, Vecinos: {0: [735], 1: [209], 2: [3], 3: [449]}, Completo: True, Conexion: 37
+ID735, Vecinos: {0: [473]}, Completo: True, Conexion: 14
+ID473, Vecinos: {0: [493], 1: [520], 2: [524]}, Completo: True, Conexion: 17
+ID493, Vecinos: {0: [617], 1: [862], 2: [205], 3: [805], 4: [194]}, Completo: True, Conexion: 23
+ID617, Vecinos: {0: [539]}, Completo: True, Conexion: 31
+ID539, Vecinos: {0: [826], 1: [1096], 2: [385], 3: [127], 4: [782], 5: [528]}, Completo: True, Conexion: 34
+ID826, Vecinos: {0: [110], 1: [478], 2: [777], 3: [1077], 4: [316]}, Completo: True, Conexion: 15
+ID110, Vecinos: {0: [528], 1: [1094], 2: [1062], 3: [7], 4: [84]}, Completo: True, Conexion: 20
+ID528, Vecinos: {0: [541], 1: [989], 2: [5], 3: [634]}, Completo: True, Conexion: 39
+ID541, Vecinos: {0: [815], 1: [228], 2: [1145]}, Completo: True, Conexion: 34
+ID815, Vecinos: {0: [569], 1: [1036], 2: [729], 3: [634], 4: [148], 5: [140], 6: [354]}, Completo: True, Conexion: 26
+ID569, Vecinos: {0: [63], 1: [41], 2: [18], 3: [804], 4: [849], 5: [119], 6: [877]}, Completo: True, Conexion: 23
+ID63, Vecinos: {0: [811], 1: [584], 2: [707]}, Completo: True, Conexion: 7
+ID811, Vecinos: {0: [580], 1: [798], 2: [986], 3: [638], 4: [381], 5: [210]}, Completo: True, Conexion: 15
+ID580, Vecinos: {0: [481], 1: [734], 2: [1018], 3: [916]}, Completo: True, Conexion: 15
+ID481, Vecinos: {0: [973], 1: [789]}, Completo: True, Conexion: 7
+ID973, Vecinos: {0: [888], 1: [1145], 2: [739], 3: [847], 4: [1105], 5: [617], 6: [909]}, Completo: True, Conexion: 28
+ID888, Vecinos: {0: [886], 1: [352], 2: [315], 3: [417]}, Completo: True, Conexion: 21
+ID886, Vecinos: {0: [3], 1: [357], 2: [973]}, Completo: True, Conexion: 20
+ID3, Vecinos: {0: [364], 1: [266], 2: [275], 3: [89], 4: [846], 5: [500], 6: [6]}, Completo: True, Conexion: 22
+ID364, Vecinos: {0: [553], 1: [791], 2: [1040], 3: [866], 4: [734]}, Completo: False, Conexion: 5
+ID553, Vecinos: {0: [689], 1: [418], 2: [1080], 3: [387], 4: [1130], 5: [700]}, Completo: True, Conexion: 25
+ID689, Vecinos: {0: [799], 1: [585]}, Completo: True, Conexion: 16
+ID799, Vecinos: {0: [321], 1: [918]}, Completo: True, Conexion: 25
+ID321, Vecinos: {0: [220], 1: [635], 2: [392], 3: [308], 4: [425]}, Completo: True, Conexion: 20
+ID220, Vecinos: {0: [697], 1: [22]}, Completo: True, Conexion: 24
+ID697, Vecinos: {0: [302], 1: [817]}, Completo: True, Conexion: 22
+ID302, Vecinos: {0: [416], 1: [105], 2: [601], 3: [425]}, Completo: True, Conexion: 12
+ID416, Vecinos: {0: [574], 1: [121], 2: [954], 3: [461], 4: [339]}, Completo: True, Conexion: 17
+ID574, Vecinos: {0: [1027], 1: [1007], 2: [567], 3: [505], 4: [517]}, Completo: True, Conexion: 8
+ID1027, Vecinos: {0: [996], 1: [616]}, Completo: True, Conexion: 13
+ID996, Vecinos: {0: [1030], 1: [1029], 2: [632], 3: [257]}, Completo: True, Conexion: 23
+ID1030, Vecinos: {0: [997], 1: [231], 2: [333], 3: [747]}, Completo: True, Conexion: 30
+ID997, Vecinos: {0: [1115], 1: [222], 2: [965], 3: [648], 4: [123], 5: [176], 6: [384]}, Completo: True, Conexion: 24
+ID1115, Vecinos: {0: [745], 1: [875]}, Completo: True, Conexion: 26
+ID745, Vecinos: {0: [402], 1: [532], 2: [550]}, Completo: True, Conexion: 29
+ID402, Vecinos: {0: [813], 1: [45], 2: [536], 3: [438], 4: [40], 5: [741]}, Completo: True, Conexion: 14
+ID813, Vecinos: {0: [906], 1: [143], 2: [539], 3: [331], 4: [223]}, Completo: True, Conexion: 16
+ID906, Vecinos: {0: [349], 1: [657], 2: [231], 3: [290], 4: [388], 5: [819]}, Completo: True, Conexion: 18
+ID349, Vecinos: {0: [55], 1: [723], 2: [371], 3: [783], 4: [379], 5: [175], 6: [528]}, Completo: True, Conexion: 8
+ID55, Vecinos: {0: [618], 1: [360]}, Completo: True, Conexion: 4
+ID618, Vecinos: {0: [1132], 1: [412], 2: [204], 3: [853]}, Completo: True, Conexion: 5
+ID1132, Vecinos: {0: [1000], 1: [309], 2: [774], 3: [807], 4: [329], 5: [83]}, Completo: True, Conexion: 11
+ID1000, Vecinos: {0: [463], 1: [120], 2: [1133], 3: [641], 4: [628], 5: [437]}, Completo: True, Conexion: 9
+ID463, Vecinos: {0: [31], 1: [184], 2: [777], 3: [1034], 4: [446]}, Completo: True, Conexion: 20
+ID31, Vecinos: {0: [509], 1: [528], 2: [984], 3: [1051]}, Completo: True, Conexion: 13
+ID509, Vecinos: {0: [892], 1: [142], 2: [469]}, Completo: True, Conexion: 17
+ID892, Vecinos: {0: [901]}, Completo: True, Conexion: 30
+ID901, Vecinos: {0: [1058], 1: [384], 2: [930], 3: [1054], 4: [676]}, Completo: True, Conexion: 42
+ID1058, Vecinos: {0: [878], 1: [842], 2: [971], 3: [1002], 4: [683]}, Completo: True, Conexion: 12
+ID878, Vecinos: {0: [72], 1: [562], 2: [535], 3: [290], 4: [756]}, Completo: True, Conexion: 22
+ID72, Vecinos: {0: [11], 1: [232], 2: [1069], 3: [140], 4: [967], 5: [1090]}, Completo: True, Conexion: 16
+ID11, Vecinos: {0: [1020], 1: [646], 2: [1007], 3: [947], 4: [428], 5: [979], 6: [597]}, Completo: True, Conexion: 18
+ID1020, Vecinos: {0: [184], 1: [513], 2: [64], 3: [866]}, Completo: True, Conexion: 11
+ID184, Vecinos: {0: [1098]}, Completo: True, Conexion: 28
+ID1098, Vecinos: {0: [68], 1: [1064], 2: [87]}, Completo: True, Conexion: 50
+ID68, Vecinos: {0: [306], 1: [1040], 2: [437], 3: [136]}, Completo: True, Conexion: 31
+ID306, Vecinos: {0: [914], 1: [361], 2: [586], 3: [791], 4: [1050], 5: [114], 6: [194]}, Completo: True, Conexion: 11
+ID914, Vecinos: {0: [851], 1: [472], 2: [570], 3: [1026], 4: [730], 5: [521], 6: [101]}, Completo: True, Conexion: 17
+ID851, Vecinos: {0: [464], 1: [32], 2: [779], 3: [322], 4: [591], 5: [205]}, Completo: False, Conexion: 6
+ID464, Vecinos: {0: [73], 1: [347], 2: [739], 3: [203], 4: [827], 5: [610]}, Completo: True, Conexion: 9
+ID73, Vecinos: {0: [165], 1: [517], 2: [812]}, Completo: True, Conexion: 10
+ID165, Vecinos: {0: [150], 1: [981], 2: [271], 3: [1139], 4: [566], 5: [896], 6: [99, 195]}, Completo: True, Conexion: 15
+ID150, Vecinos: {0: [440], 1: [839], 2: [941]}, Completo: True, Conexion: 8
+ID440, Vecinos: {0: [670], 1: [1014], 2: [536], 3: [363], 4: [342], 5: [579], 6: [944]}, Completo: True, Conexion: 11
+ID670, Vecinos: {0: [1112]}, Completo: True, Conexion: 20
+ID1112, Vecinos: {0: [488], 1: [933], 2: [349], 3: [621], 4: [464], 5: [906]}, Completo: True, Conexion: 28
+ID488, Vecinos: {0: [653], 1: [535], 2: [387], 3: [324], 4: [541], 5: [244], 6: [1075]}, Completo: True, Conexion: 22
+ID653, Vecinos: {0: [739], 1: [656], 2: [1125], 3: [190], 4: [454], 5: [320], 6: [961]}, Completo: True, Conexion: 9
+ID739, Vecinos: {0: [947]}, Completo: True, Conexion: 28
+ID947, Vecinos: {0: [830], 1: [480], 2: [113], 3: [745], 4: [1074], 5: [846]}, Completo: True, Conexion: 85
+ID830, Vecinos: {0: [835], 1: [636], 2: [928], 3: [575], 4: [552]}, Completo: True, Conexion: 34
+ID835, Vecinos: {0: [783], 1: [670], 2: [961], 3: [1071], 4: [1096], 5: [316]}, Completo: True, Conexion: 17
+ID783, Vecinos: {0: [661], 1: [231], 2: [44], 3: [394]}, Completo: False, Conexion: 4
+ID661, Vecinos: {0: [863], 1: [114], 2: [1052], 3: [61], 4: [139], 5: [907]}, Completo: True, Conexion: 24
+ID863, Vecinos: {0: [375], 1: [664], 2: [872]}, Completo: True, Conexion: 22
+ID375, Vecinos: {0: [491], 1: [668], 2: [534], 3: [752], 4: [966]}, Completo: True, Conexion: 24
+ID491, Vecinos: {0: [990], 1: [456]}, Completo: True, Conexion: 19
+ID990, Vecinos: {0: [969], 1: [48], 2: [976], 3: [122], 4: [485]}, Completo: True, Conexion: 13
+ID969, Vecinos: {0: [1116], 1: [655], 2: [790], 3: [185], 4: [1058], 5: [11], 6: [521]}, Completo: True, Conexion: 10
+ID1116, Vecinos: {0: [485], 1: [979], 2: [660], 3: [914]}, Completo: False, Conexion: 4
+ID485, Vecinos: {0: [1024], 1: [450], 2: [784], 3: [688]}, Completo: True, Conexion: 10
+ID1024, Vecinos: {0: [884], 1: [479], 2: [531, 686, 803], 3: [759], 4: [931], 5: [767]}, Completo: True, Conexion: 18
+ID884, Vecinos: {0: [988]}, Completo: True, Conexion: 33
+ID988, Vecinos: {0: [287], 1: [926], 2: [889, 275], 3: [898]}, Completo: True, Conexion: 37
+ID287, Vecinos: {0: [106], 1: [663], 2: [341], 3: [172], 4: [609]}, Completo: True, Conexion: 23
+ID106, Vecinos: {0: [636], 1: [1077], 2: [500], 3: [934]}, Completo: True, Conexion: 5
+ID636, Vecinos: {0: [277], 1: [784], 2: [518], 3: [594], 4: [341]}, Completo: True, Conexion: 16
+ID277, Vecinos: {0: [631], 1: [843], 2: [1042], 3: [259]}, Completo: True, Conexion: 8
+ID631, Vecinos: {0: [206], 1: [776], 2: [717], 3: [745]}, Completo: True, Conexion: 8
+ID206, Vecinos: {0: [1120], 1: [322], 2: [946]}, Completo: True, Conexion: 29
+ID1120, Vecinos: {0: [269], 1: [498], 2: [353], 3: [224], 4: [315], 5: [410]}, Completo: True, Conexion: 38
+ID269, Vecinos: {0: [1127], 1: [996], 2: [727], 3: [620], 4: [3], 5: [641], 6: [920]}, Completo: True, Conexion: 7
+ID1127, Vecinos: {0: [449], 1: [1140], 2: [6]}, Completo: True, Conexion: 22
+ID449, Vecinos: {0: [104], 1: [576], 2: [656], 3: [758], 4: [979], 5: [129]}, Completo: True, Conexion: 18
+ID104, Vecinos: {0: [700], 1: [414], 2: [791]}, Completo: True, Conexion: 10
+ID700, Vecinos: {0: [483], 1: [296], 2: [646], 3: [832], 4: [563]}, Completo: True, Conexion: 30
+ID483, Vecinos: {0: [442], 1: [1031], 2: [974], 3: [128], 4: [250]}, Completo: True, Conexion: 29
+ID442, Vecinos: {0: [511], 1: [370], 2: [892], 3: [495], 4: [1097], 5: [1018]}, Completo: True, Conexion: 23
+ID511, Vecinos: {0: [354], 1: [855], 2: [754], 3: [738], 4: [815], 5: [719]}, Completo: True, Conexion: 18
+ID354, Vecinos: {0: [927], 1: [502], 2: [49], 3: [1081]}, Completo: True, Conexion: 22
+ID927, Vecinos: {0: [547], 1: [558], 2: [219], 3: [588], 4: [410], 5: [214]}, Completo: True, Conexion: 19
+ID547, Vecinos: {0: [1011], 1: [716], 2: [447], 3: [1027], 4: [864], 5: [333]}, Completo: True, Conexion: 18
+ID1011, Vecinos: {0: [1037], 1: [779], 2: [189], 3: [818]}, Completo: True, Conexion: 21
+ID1037, Vecinos: {0: [247], 1: [557], 2: [692], 3: [498], 4: [348], 5: [185], 6: [444]}, Completo: True, Conexion: 11
+ID247, Vecinos: {0: [916]}, Completo: True, Conexion: 9
+ID916, Vecinos: {0: [903], 1: [183], 2: [1113], 3: [83], 4: [905], 5: [959], 6: [295]}, Completo: True, Conexion: 12
+ID903, Vecinos: {0: [928], 1: [144], 2: [765]}, Completo: True, Conexion: 38
+ID928, Vecinos: {0: [862], 1: [1072], 2: [430], 3: [1017], 4: [1036], 5: [205], 6: [350]}, Completo: True, Conexion: 44
+ID862, Vecinos: {0: [658], 1: [721], 2: [100], 3: [723], 4: [415], 5: [332]}, Completo: True, Conexion: 18
+ID658, Vecinos: {0: [836], 1: [157]}, Completo: True, Conexion: 9
+ID836, Vecinos: {0: [457], 1: [345], 2: [823], 3: [145], 4: [337], 5: [948]}, Completo: True, Conexion: 19
+ID457, Vecinos: {0: [881]}, Completo: True, Conexion: 14
+ID881, Vecinos: {0: [304], 1: [620], 2: [920]}, Completo: True, Conexion: 17
+ID304, Vecinos: {0: [846], 1: [1093], 2: [699]}, Completo: True, Conexion: 17
+ID846, Vecinos: {0: [834], 1: [791], 2: [421], 3: [190], 4: [854]}, Completo: True, Conexion: 23
+ID834, Vecinos: {0: [1143], 1: [800], 2: [492]}, Completo: True, Conexion: 9
+ID1093, Vecinos: {0: [958], 1: [431], 2: [1012], 3: [57], 4: [510]}, Completo: True, Conexion: 18
+ID958, Vecinos: {0: [318], 1: [655], 2: [549], 3: [716], 4: [643], 5: [951]}, Completo: True, Conexion: 19
+ID318, Vecinos: {0: [861], 1: [1044], 2: [1022], 3: [568]}, Completo: True, Conexion: 4
+ID861, Vecinos: {0: [1022], 1: [937], 2: [432], 3: [342], 4: [169], 5: [118], 6: [305]}, Completo: True, Conexion: 10
+ID1022, Vecinos: {0: [284], 1: [77], 2: [81], 3: [139]}, Completo: True, Conexion: 25
+ID284, Vecinos: {0: [883], 1: [914], 2: [738], 3: [807], 4: [1082], 5: [168], 6: [1070]}, Completo: True, Conexion: 11
+ID883, Vecinos: {0: [515], 1: [146], 2: [1112]}, Completo: True, Conexion: 3
+ID515, Vecinos: {0: [565], 1: [1088], 2: [443], 3: [1083], 4: [1082], 5: [840]}, Completo: True, Conexion: 6
+ID565, Vecinos: {0: [60], 1: [794], 2: [1137]}, Completo: True, Conexion: 17
+ID60, Vecinos: {0: [856], 1: [638], 2: [29], 3: [294], 4: [433], 5: [936]}, Completo: True, Conexion: 7
+ID856, Vecinos: {0: [832], 1: [786], 2: [25], 3: [455], 4: [280], 5: [644], 6: [546]}, Completo: True, Conexion: 9
+ID832, Vecinos: {0: [1017], 1: [282], 2: [418], 3: [528], 4: [765]}, Completo: True, Conexion: 14
+ID1017, Vecinos: {0: [645]}, Completo: True, Conexion: 26
+ID645, Vecinos: {0: [319], 1: [854], 2: [242], 3: [281], 4: [989]}, Completo: True, Conexion: 37
+ID319, Vecinos: {0: [929], 1: [43], 2: [816], 3: [494], 4: [659], 5: [220], 6: [617]}, Completo: True, Conexion: 11
+ID929, Vecinos: {0: [279], 1: [684], 2: [908, 555]}, Completo: True, Conexion: 22
+ID279, Vecinos: {0: [902], 1: [887], 2: [558], 3: [1042], 4: [1003], 5: [624], 6: [625]}, Completo: True, Conexion: 13
+ID902, Vecinos: {0: [562], 1: [501]}, Completo: True, Conexion: 14
+ID562, Vecinos: {0: [604], 1: [706, 773, 273], 2: [573], 3: [486], 4: [1061]}, Completo: True, Conexion: 39
+ID604, Vecinos: {0: [868]}, Completo: True, Conexion: 14
+ID868, Vecinos: {0: [586], 1: [264], 2: [16], 3: [891], 4: [756], 5: [857]}, Completo: True, Conexion: 29
+ID586, Vecinos: {0: [484]}, Completo: True, Conexion: 23
+ID484, Vecinos: {0: [589], 1: [1085], 2: [921]}, Completo: True, Conexion: 26
+ID589, Vecinos: {0: [757], 1: [79], 2: [198], 3: [751]}, Completo: True, Conexion: 43
+ID757, Vecinos: {0: [238], 1: [11], 2: [744]}, Completo: True, Conexion: 37
+ID238, Vecinos: {0: [931], 1: [9], 2: [986], 3: [378], 4: [833], 5: [897]}, Completo: True, Conexion: 27
+ID931, Vecinos: {0: [1042], 1: [704], 2: [1094], 3: [935]}, Completo: True, Conexion: 28
+ID1042, Vecinos: {0: [819], 1: [977], 2: [871], 3: [1028], 4: [47], 5: [266]}, Completo: True, Conexion: 21
+ID819, Vecinos: {0: [461], 1: [211]}, Completo: True, Conexion: 14
+ID461, Vecinos: {0: [76], 1: [1121], 2: [694]}, Completo: True, Conexion: 19
+ID76, Vecinos: {0: [837], 1: [789], 2: [423], 3: [372], 4: [931], 5: [959], 6: [686]}, Completo: True, Conexion: 26
+ID837, Vecinos: {0: [669], 1: [555], 2: [246], 3: [206], 4: [776]}, Completo: True, Conexion: 15
+ID669, Vecinos: {0: [991], 1: [971], 2: [1053], 3: [190], 4: [831]}, Completo: True, Conexion: 6
+ID991, Vecinos: {0: [135]}, Completo: True, Conexion: 3
+ID135, Vecinos: {0: [1123], 1: [790], 2: [850], 3: [67]}, Completo: True, Conexion: 33
+ID1123, Vecinos: {0: [807], 1: [410], 2: [749]}, Completo: True, Conexion: 9
+ID807, Vecinos: {0: [112], 1: [887], 2: [415]}, Completo: True, Conexion: 10
+ID112, Vecinos: {0: [1082], 1: [1032], 2: [718]}, Completo: True, Conexion: 26
+ID1082, Vecinos: {0: [1077], 1: [995], 2: [101]}, Completo: True, Conexion: 18
+ID1077, Vecinos: {0: [174], 1: [10], 2: [790], 3: [381]}, Completo: True, Conexion: 28
+ID174, Vecinos: {0: [181], 1: [1095], 2: [921], 3: [1105], 4: [17], 5: [630], 6: [1097]}, Completo: True, Conexion: 9
+ID181, Vecinos: {0: [1087], 1: [1106], 2: [928], 3: [650], 4: [919]}, Completo: True, Conexion: 20
+ID1087, Vecinos: {0: [905], 1: [618, 497]}, Completo: True, Conexion: 13
+ID905, Vecinos: {0: [372], 1: [804], 2: [928], 3: [382], 4: [513]}, Completo: True, Conexion: 29
+ID372, Vecinos: {0: [477], 1: [69], 2: [257], 3: [130], 4: [10]}, Completo: True, Conexion: 14
+ID477, Vecinos: {0: [482], 1: [619], 2: [513]}, Completo: True, Conexion: 21
+ID482, Vecinos: {0: [85], 1: [771], 2: [1003], 3: [1045], 4: [501], 5: [751], 6: [1]}, Completo: True, Conexion: 28
+ID85, Vecinos: {0: [138], 1: [326], 2: [185], 3: [61], 4: [69], 5: [671]}, Completo: True, Conexion: 12
+ID138, Vecinos: {0: [74], 1: [342]}, Completo: True, Conexion: 12
+ID74, Vecinos: {0: [987], 1: [540]}, Completo: True, Conexion: 10
+ID987, Vecinos: {0: [297], 1: [712]}, Completo: True, Conexion: 12
+ID297, Vecinos: {0: [844], 1: [946], 2: [393], 3: [452]}, Completo: True, Conexion: 12
+ID844, Vecinos: {0: [1045], 1: [1120], 2: [65]}, Completo: True, Conexion: 31
+ID1045, Vecinos: {0: [335], 1: [813], 2: [1089], 3: [246], 4: [913], 5: [657]}, Completo: True, Conexion: 19
+ID335, Vecinos: {0: [854]}, Completo: True, Conexion: 15
+ID854, Vecinos: {0: [609], 1: [586]}, Completo: True, Conexion: 33
+ID609, Vecinos: {0: [855], 1: [320], 2: [806], 3: [762]}, Completo: True, Conexion: 47
+ID855, Vecinos: {0: [1090], 1: [1120]}, Completo: True, Conexion: 21
+ID1090, Vecinos: {0: [925], 1: [294]}, Completo: True, Conexion: 20
+ID925, Vecinos: {0: [1014], 1: [629], 2: [622], 3: [673], 4: [1129]}, Completo: True, Conexion: 15
+ID1014, Vecinos: {0: [949], 1: [521], 2: [592], 3: [1068]}, Completo: True, Conexion: 29
+ID949, Vecinos: {0: [94]}, Completo: True, Conexion: 14
+ID94, Vecinos: {0: [252], 1: [890], 2: [691]}, Completo: True, Conexion: 16
+ID252, Vecinos: {0: [264], 1: [1133]}, Completo: True, Conexion: 23
+ID264, Vecinos: {0: [786]}, Completo: True, Conexion: 26
+ID786, Vecinos: {0: [490], 1: [588]}, Completo: True, Conexion: 51
+ID490, Vecinos: {0: [1088], 1: [682], 2: [871]}, Completo: True, Conexion: 44
+ID1088, Vecinos: {0: [788], 1: [558], 2: [410]}, Completo: True, Conexion: 53
+ID788, Vecinos: {0: [480], 1: [127], 2: [911], 3: [687], 4: [977]}, Completo: True, Conexion: 34
+ID480, Vecinos: {0: [141]}, Completo: True, Conexion: 21
+ID141, Vecinos: {0: [325], 1: [632], 2: [778], 3: [828], 4: [59], 5: [596]}, Completo: True, Conexion: 27
+ID325, Vecinos: {0: [441], 1: [79], 2: [518], 3: [825], 4: [809], 5: [648], 6: [18]}, Completo: True, Conexion: 19
+ID441, Vecinos: {0: [980], 1: [388], 2: [371], 3: [549], 4: [379], 5: [800]}, Completo: True, Conexion: 17
+ID980, Vecinos: {0: [358], 1: [715], 2: [952]}, Completo: False, Conexion: 3
+ID358, Vecinos: {0: [1003], 1: [132], 2: [305], 3: [753], 4: [1143], 5: [946]}, Completo: False, Conexion: 6
+ID1003, Vecinos: {0: [51], 1: [892], 2: [798], 3: [604], 4: [996], 5: [334], 6: [1079]}, Completo: True, Conexion: 9
+ID51, Vecinos: {0: [40]}, Completo: True, Conexion: 11
+ID40, Vecinos: {0: [146], 1: [793], 2: [173], 3: [753], 4: [222], 5: [375]}, Completo: True, Conexion: 23
+ID146, Vecinos: {0: [1140], 1: [245], 2: [249], 3: [833], 4: [309], 5: [731], 6: [461]}, Completo: True, Conexion: 20
+ID1140, Vecinos: {0: [723], 1: [224]}, Completo: True, Conexion: 22
+ID723, Vecinos: {0: [933], 1: [1056], 2: [798], 3: [34], 4: [798], 5: [500]}, Completo: True, Conexion: 21
+ID933, Vecinos: {0: [455]}, Completo: True, Conexion: 44
+ID455, Vecinos: {0: [1065], 1: [527], 2: [348], 3: [1143]}, Completo: True, Conexion: 61
+ID1065, Vecinos: {0: [140], 1: [1098]}, Completo: True, Conexion: 31
+ID140, Vecinos: {0: [18], 1: [154], 2: [751], 3: [651], 4: [595], 5: [503], 6: [771]}, Completo: True, Conexion: 52
+ID18, Vecinos: {0: [407], 1: [710], 2: [451], 3: [533], 4: [817], 5: [762], 6: [14]}, Completo: True, Conexion: 29
+ID407, Vecinos: {0: [201], 1: [131], 2: [1068], 3: [518], 4: [1140]}, Completo: True, Conexion: 5
+ID201, Vecinos: {0: [219], 1: [437], 2: [471]}, Completo: True, Conexion: 4
+ID219, Vecinos: {0: [1066], 1: [934], 2: [802], 3: [769], 4: [723]}, Completo: False, Conexion: 5
+ID1066, Vecinos: {0: [71], 1: [894], 2: [497], 3: [731], 4: [238]}, Completo: False, Conexion: 5
+ID71, Vecinos: {0: [381], 1: [895], 2: [941]}, Completo: True, Conexion: 3
+ID381, Vecinos: {0: [876], 1: [214], 2: [979], 3: [741]}, Completo: True, Conexion: 13
+ID876, Vecinos: {0: [119], 1: [119]}, Completo: True, Conexion: 4
+ID119, Vecinos: {0: [493, 461], 1: [96]}, Completo: True, Conexion: 17
+ID721, Vecinos: {0: [716], 1: [708]}, Completo: True, Conexion: 12
+ID716, Vecinos: {0: [213]}, Completo: True, Conexion: 25
+ID213, Vecinos: {0: [822], 1: [643], 2: [165], 3: [424], 4: [152], 5: [686], 6: [992]}, Completo: True, Conexion: 25
+ID822, Vecinos: {0: [776], 1: [387], 2: [1081], 3: [701], 4: [403], 5: [939], 6: [14]}, Completo: True, Conexion: 24
+ID776, Vecinos: {0: [696], 1: [335], 2: [476], 3: [761]}, Completo: True, Conexion: 16
+ID696, Vecinos: {0: [977], 1: [962], 2: [406], 3: [564], 4: [883], 5: [160]}, Completo: True, Conexion: 7
+ID977, Vecinos: {0: [130], 1: [1106], 2: [1076], 3: [220], 4: [90]}, Completo: True, Conexion: 31
+ID130, Vecinos: {0: [979], 1: [753], 2: [314], 3: [20], 4: [1085], 5: [845], 6: [434]}, Completo: True, Conexion: 13
+ID979, Vecinos: {0: [1054], 1: [309], 2: [191]}, Completo: True, Conexion: 29
+ID1054, Vecinos: {0: [1050], 1: [153]}, Completo: True, Conexion: 34
+ID1050, Vecinos: {0: [347], 1: [873], 2: [1039], 3: [127], 4: [351]}, Completo: True, Conexion: 24
+ID347, Vecinos: {0: [682], 1: [460], 2: [1113], 3: [403], 4: [333], 5: [371]}, Completo: True, Conexion: 14
+ID682, Vecinos: {0: [30], 1: [499]}, Completo: True, Conexion: 19
+ID30, Vecinos: {0: [679], 1: [1112], 2: [681]}, Completo: True, Conexion: 14
+ID679, Vecinos: {0: [744], 1: [97], 2: [921]}, Completo: True, Conexion: 9
+ID744, Vecinos: {0: [917], 1: [220]}, Completo: True, Conexion: 26
+ID917, Vecinos: {0: [376], 1: [7], 2: [365], 3: [766]}, Completo: True, Conexion: 20
+ID376, Vecinos: {0: [144], 1: [187], 2: [27], 3: [739]}, Completo: True, Conexion: 28
+ID144, Vecinos: {0: [608], 1: [894], 2: [924], 3: [230], 4: [193]}, Completo: True, Conexion: 34
+ID608, Vecinos: {0: [525], 1: [295], 2: [605], 3: [408], 4: [33], 5: [487]}, Completo: True, Conexion: 19
+ID525, Vecinos: {0: [693], 1: [530], 2: [835], 3: [863], 4: [722]}, Completo: True, Conexion: 8
+ID693, Vecinos: {0: [758], 1: [804], 2: [461], 3: [759], 4: [808]}, Completo: True, Conexion: 15
+ID758, Vecinos: {0: [648], 1: [960], 2: [79], 3: [76]}, Completo: True, Conexion: 27
+ID648, Vecinos: {0: [814], 1: [617], 2: [175], 3: [627], 4: [859], 5: [895], 6: [919]}, Completo: True, Conexion: 27
+ID814, Vecinos: {0: [368], 1: [466], 2: [355], 3: [330], 4: [323]}, Completo: True, Conexion: 6
+ID368, Vecinos: {0: [1019], 1: [476]}, Completo: True, Conexion: 35
+ID1019, Vecinos: {0: [650], 1: [651]}, Completo: True, Conexion: 32
+ID650, Vecinos: {0: [705], 1: [519], 2: [101], 3: [944], 4: [823], 5: [207], 6: [920]}, Completo: True, Conexion: 39
+ID705, Vecinos: {0: [263], 1: [197], 2: [764], 3: [467], 4: [345], 5: [293], 6: [335]}, Completo: True, Conexion: 12
+ID263, Vecinos: {0: [556], 1: [56], 2: [1001]}, Completo: True, Conexion: 12
+ID556, Vecinos: {0: [224], 1: [859], 2: [543]}, Completo: True, Conexion: 4
+ID224, Vecinos: {0: [312], 1: [491], 2: [470], 3: [1025], 4: [1083], 5: [995]}, Completo: True, Conexion: 22
+ID312, Vecinos: {0: [950], 1: [420], 2: [306], 3: [972], 4: [977], 5: [263], 6: [43]}, Completo: True, Conexion: 8
+ID950, Vecinos: {0: [579]}, Completo: True, Conexion: 7
+ID579, Vecinos: {0: [934], 1: [1100], 2: [421]}, Completo: True, Conexion: 30
+ID934, Vecinos: {0: [369], 1: [709], 2: [111], 3: [494], 4: [254], 5: [305]}, Completo: True, Conexion: 13
+ID369, Vecinos: {0: [897], 1: [469], 2: [1007], 3: [31], 4: [182], 5: [729], 6: [265]}, Completo: True, Conexion: 28
+ID897, Vecinos: {0: [720], 1: [803], 2: [448], 3: [833], 4: [839], 5: [992], 6: [902]}, Completo: True, Conexion: 19
+ID720, Vecinos: {0: [1101], 1: [388]}, Completo: True, Conexion: 7
+ID1101, Vecinos: {0: [107], 1: [1046], 2: [858], 3: [1032]}, Completo: True, Conexion: 23
+ID107, Vecinos: {0: [115], 1: [447], 2: [1064], 3: [297], 4: [950], 5: [116], 6: [992]}, Completo: True, Conexion: 17
+ID115, Vecinos: {0: [527], 1: [593]}, Completo: True, Conexion: 22
+ID527, Vecinos: {0: [420], 1: [937], 2: [316], 3: [705], 4: [739], 5: [757], 6: [37]}, Completo: True, Conexion: 34
+ID420, Vecinos: {0: [98], 1: [547]}, Completo: True, Conexion: 17
+ID98, Vecinos: {0: [649], 1: [681], 2: [1025]}, Completo: True, Conexion: 26
+ID649, Vecinos: {0: [158], 1: [261], 2: [187], 3: [1011]}, Completo: True, Conexion: 9
+ID158, Vecinos: {0: [684], 1: [891], 2: [259], 3: [406]}, Completo: False, Conexion: 4
+ID684, Vecinos: {0: [124], 1: [758], 2: [50], 3: [589], 4: [86], 5: [173], 6: [301]}, Completo: True, Conexion: 19
+ID124, Vecinos: {0: [904], 1: [192], 2: [742]}, Completo: True, Conexion: 3
+ID904, Vecinos: {0: [409], 1: [415], 2: [1102], 3: [417], 4: [333]}, Completo: True, Conexion: 8
+ID409, Vecinos: {0: [233], 1: [844]}, Completo: True, Conexion: 16
+ID233, Vecinos: {0: [1129], 1: [905], 2: [450]}, Completo: True, Conexion: 27
+ID1129, Vecinos: {0: [781], 1: [976]}, Completo: True, Conexion: 15
+ID781, Vecinos: {0: [594], 1: [114], 2: [659]}, Completo: True, Conexion: 8
+ID594, Vecinos: {0: [69, 501], 1: [602]}, Completo: True, Conexion: 14
+ID69, Vecinos: {0: [399], 1: [391], 2: [1124], 3: [966, 1097], 4: [1009, 68], 5: [661]}, Completo: True, Conexion: 43
+ID399, Vecinos: {0: [266], 1: [1054]}, Completo: True, Conexion: 22
+ID266, Vecinos: {0: [191], 1: [195], 2: [385], 3: [759], 4: [651], 5: [427]}, Completo: True, Conexion: 23
+ID191, Vecinos: {0: [66]}, Completo: True, Conexion: 21
+ID66, Vecinos: {0: [125], 1: [1096], 2: [24], 3: [324]}, Completo: True, Conexion: 24
+ID125, Vecinos: {0: [747]}, Completo: True, Conexion: 7
+ID747, Vecinos: {0: [113]}, Completo: True, Conexion: 28
+ID113, Vecinos: {0: [769], 1: [221], 2: [465], 3: [833]}, Completo: True, Conexion: 65
+ID769, Vecinos: {0: [170], 1: [361], 2: [598], 3: [825], 4: [419], 5: [552]}, Completo: True, Conexion: 39
+ID170, Vecinos: {0: [121], 1: [998], 2: [941]}, Completo: True, Conexion: 8
+ID121, Vecinos: {0: [1080, 1137, 52], 1: [23]}, Completo: True, Conexion: 24
+ID1080, Vecinos: {0: [166], 1: [88]}, Completo: True, Conexion: 28
+ID166, Vecinos: {0: [149]}, Completo: True, Conexion: 20
+ID149, Vecinos: {0: [550], 1: [822], 2: [456]}, Completo: True, Conexion: 43
+ID550, Vecinos: {0: [1069], 1: [553]}, Completo: True, Conexion: 24
+ID1069, Vecinos: {0: [712], 1: [968], 2: [1141], 3: [22], 4: [836]}, Completo: True, Conexion: 18
+ID712, Vecinos: {0: [638], 1: [1077], 2: [149], 3: [25]}, Completo: True, Conexion: 35
+ID638, Vecinos: {0: [278, 215], 1: [1118]}, Completo: True, Conexion: 15
+ID278, Vecinos: {0: [927], 1: [826], 2: [1], 3: [621, 477, 299], 4: [86], 5: [823]}, Completo: True, Conexion: 26
+ID558, Vecinos: {0: [943], 1: [645], 2: [115]}, Completo: True, Conexion: 34
+ID943, Vecinos: {0: [937], 1: [484], 2: [122], 3: [316], 4: [1079], 5: [796], 6: [607]}, Completo: True, Conexion: 21
+ID937, Vecinos: {0: [216], 1: [207], 2: [82], 3: [542], 4: [387], 5: [907]}, Completo: True, Conexion: 23
+ID216, Vecinos: {0: [780], 1: [356], 2: [959], 3: [609]}, Completo: True, Conexion: 56
+ID780, Vecinos: {0: [1016], 1: [661], 2: [233], 3: [1059]}, Completo: True, Conexion: 40
+ID1016, Vecinos: {0: [859], 1: [47], 2: [534]}, Completo: True, Conexion: 10
+ID859, Vecinos: {0: [552], 1: [258], 2: [403], 3: [468], 4: [293], 5: [62]}, Completo: True, Conexion: 9
+ID552, Vecinos: {0: [434], 1: [523], 2: [731]}, Completo: True, Conexion: 38
+ID434, Vecinos: {0: [701]}, Completo: True, Conexion: 24
+ID701, Vecinos: {0: [752], 1: [915], 2: [858], 3: [442], 4: [113], 5: [827], 6: [263]}, Completo: True, Conexion: 32
+ID752, Vecinos: {0: [563], 1: [534], 2: [704], 3: [969], 4: [1046]}, Completo: True, Conexion: 13
+ID563, Vecinos: {0: [908], 1: [1079], 2: [54], 3: [450], 4: [73], 5: [469]}, Completo: True, Conexion: 11
+ID908, Vecinos: {0: [731], 1: [429], 2: [1107], 3: [264], 4: [196], 5: [23], 6: [1052]}, Completo: True, Conexion: 17
+ID731, Vecinos: {0: [261], 1: [453], 2: [837], 3: [524], 4: [997]}, Completo: True, Conexion: 25
+ID261, Vecinos: {0: [301], 1: [37], 2: [454], 3: [116], 4: [955]}, Completo: True, Conexion: 20
+ID301, Vecinos: {0: [999], 1: [43]}, Completo: True, Conexion: 15
+ID999, Vecinos: {0: [932]}, Completo: True, Conexion: 12
+ID932, Vecinos: {0: [911], 1: [494, 1141], 2: [58]}, Completo: True, Conexion: 25
+ID911, Vecinos: {0: [375], 1: [599], 2: [609], 3: [200], 4: [813], 5: [24, 86, 278]}, Completo: True, Conexion: 21
+ID668, Vecinos: {0: [1126], 1: [891], 2: [741], 3: [669], 4: [163], 5: [952]}, Completo: True, Conexion: 14
+ID1126, Vecinos: {0: [180], 1: [691], 2: [693], 3: [144], 4: [842], 5: [145]}, Completo: True, Conexion: 6
+ID180, Vecinos: {0: [729], 1: [595], 2: [971], 3: [179], 4: [1116], 5: [672], 6: [279]}, Completo: True, Conexion: 12
+ID729, Vecinos: {0: [743], 1: [1033], 2: [501]}, Completo: True, Conexion: 20
+ID743, Vecinos: {0: [955], 1: [709], 2: [155], 3: [768]}, Completo: True, Conexion: 12
+ID955, Vecinos: {0: [389], 1: [718], 2: [555], 3: [89], 4: [633], 5: [45], 6: [782]}, Completo: True, Conexion: 24
+ID389, Vecinos: {0: [551], 1: [119], 2: [350]}, Completo: True, Conexion: 21
+ID551, Vecinos: {0: [853], 1: [979], 2: [21]}, Completo: True, Conexion: 17
+ID853, Vecinos: {0: [982], 1: [1128], 2: [700], 3: [123]}, Completo: True, Conexion: 9
+ID982, Vecinos: {0: [406], 1: [1042]}, Completo: True, Conexion: 8
+ID406, Vecinos: {0: [362]}, Completo: True, Conexion: 7
+ID362, Vecinos: {0: [652]}, Completo: True, Conexion: 7
+ID652, Vecinos: {0: [410], 1: [370]}, Completo: True, Conexion: 24
+ID410, Vecinos: {0: [437], 1: [171], 2: [865], 3: [675], 4: [731], 5: [1115], 6: [811]}, Completo: True, Conexion: 41
+ID437, Vecinos: {0: [361], 1: [143], 2: [304], 3: [1041], 4: [274]}, Completo: True, Conexion: 28
+ID361, Vecinos: {0: [211], 1: [439], 2: [942], 3: [390]}, Completo: True, Conexion: 15
+ID211, Vecinos: {0: [64], 1: [149]}, Completo: True, Conexion: 11
+ID64, Vecinos: {0: [627], 1: [257], 2: [1087], 3: [340], 4: [541]}, Completo: True, Conexion: 23
+ID627, Vecinos: {0: [1043], 1: [862], 2: [855], 3: [300], 4: [1138], 5: [1012]}, Completo: True, Conexion: 34
+ID1043, Vecinos: {0: [611], 1: [1014], 2: [24], 3: [170], 4: [651], 5: [686]}, Completo: True, Conexion: 6
+ID611, Vecinos: {0: [160]}, Completo: True, Conexion: 5
+ID160, Vecinos: {0: [305], 1: [1041]}, Completo: True, Conexion: 8
+ID305, Vecinos: {0: [405], 1: [580], 2: [181], 3: [609]}, Completo: True, Conexion: 14
+ID405, Vecinos: {0: [143], 1: [809, 76]}, Completo: True, Conexion: 19
+ID143, Vecinos: {0: [804]}, Completo: True, Conexion: 28
+ID804, Vecinos: {0: [19], 1: [808], 2: [252], 3: [917], 4: [992], 5: [259]}, Completo: True, Conexion: 42
+ID19, Vecinos: {0: [33, 261], 1: [835], 2: [356], 3: [259], 4: [1026], 5: [564]}, Completo: True, Conexion: 7
+ID33, Vecinos: {0: [350], 1: [192], 2: [706], 3: [721]}, Completo: True, Conexion: 13
+ID350, Vecinos: {0: [80], 1: [336], 2: [518]}, Completo: True, Conexion: 30
+ID80, Vecinos: {0: [499], 1: [295], 2: [860], 3: [214], 4: [65]}, Completo: True, Conexion: 10
+ID499, Vecinos: {0: [601]}, Completo: True, Conexion: 25
+ID601, Vecinos: {0: [953], 1: [307], 2: [303], 3: [479]}, Completo: True, Conexion: 28
+ID953, Vecinos: {0: [718], 1: [295], 2: [612], 3: [754], 4: [1114], 5: [1046], 6: [653]}, Completo: True, Conexion: 19
+ID718, Vecinos: {0: [960], 1: [67], 2: [640], 3: [1003], 4: [473], 5: [34], 6: [339]}, Completo: True, Conexion: 15
+ID960, Vecinos: {0: [249]}, Completo: True, Conexion: 12
+ID249, Vecinos: {0: [719], 1: [299], 2: [650], 3: [709], 4: [886], 5: [280], 6: [759]}, Completo: True, Conexion: 38
+ID719, Vecinos: {0: [1046]}, Completo: True, Conexion: 14
+ID1046, Vecinos: {0: [1062], 1: [1001], 2: [977], 3: [929], 4: [535]}, Completo: True, Conexion: 37
+ID1062, Vecinos: {0: [258], 1: [692]}, Completo: True, Conexion: 15
+ID258, Vecinos: {0: [790], 1: [797], 2: [310], 3: [1014]}, Completo: True, Conexion: 25
+ID790, Vecinos: {0: [421], 1: [931], 2: [267], 3: [619], 4: [946]}, Completo: True, Conexion: 28
+ID421, Vecinos: {0: [209], 1: [85], 2: [165], 3: [536], 4: [101], 5: [1081], 6: [468]}, Completo: True, Conexion: 21
+ID209, Vecinos: {0: [175], 1: [958], 2: [1115], 3: [295], 4: [579], 5: [43], 6: [984]}, Completo: True, Conexion: 34
+ID175, Vecinos: {0: [1130], 1: [545], 2: [278], 3: [149], 4: [412], 5: [952], 6: [348]}, Completo: True, Conexion: 10
+ID1130, Vecinos: {0: [1109], 1: [712]}, Completo: True, Conexion: 10
+ID1109, Vecinos: {0: [975], 1: [726], 2: [153], 3: [295], 4: [475]}, Completo: True, Conexion: 22
+ID975, Vecinos: {0: [352], 1: [447], 2: [709], 3: [67], 4: [1009]}, Completo: False, Conexion: 5
+ID352, Vecinos: {0: [408], 1: [14], 2: [600]}, Completo: True, Conexion: 24
+ID408, Vecinos: {0: [81], 1: [736], 2: [684], 3: [441], 4: [875, 584], 5: [639], 6: [340]}, Completo: True, Conexion: 15
+ID81, Vecinos: {0: [313], 1: [1115], 2: [707], 3: [371]}, Completo: True, Conexion: 13
+ID313, Vecinos: {0: [451]}, Completo: True, Conexion: 12
+ID451, Vecinos: {0: [708], 1: [384], 2: [639, 285]}, Completo: True, Conexion: 33
+ID708, Vecinos: {0: [215], 1: [981], 2: [121]}, Completo: True, Conexion: 23
+ID215, Vecinos: {0: [740], 1: [1135], 2: [734], 3: [555], 4: [344], 5: [522]}, Completo: True, Conexion: 9
+ID740, Vecinos: {0: [387], 1: [1061], 2: [276]}, Completo: True, Conexion: 11
+ID387, Vecinos: {0: [478], 1: [1], 2: [45], 3: [133], 4: [394]}, Completo: True, Conexion: 21
+ID478, Vecinos: {0: [654], 1: [214], 2: [904], 3: [1136], 4: [385]}, Completo: True, Conexion: 21
+ID654, Vecinos: {0: [554], 1: [693], 2: [552]}, Completo: True, Conexion: 10
+ID554, Vecinos: {0: [248], 1: [513], 2: [233], 3: [438], 4: [63]}, Completo: True, Conexion: 11
+ID248, Vecinos: {0: [17], 1: [698], 2: [1119], 3: [1067]}, Completo: True, Conexion: 8
+ID17, Vecinos: {0: [431], 1: [115], 2: [422], 3: [1071], 4: [886]}, Completo: False, Conexion: 5
+ID431, Vecinos: {0: [205], 1: [309], 2: [30], 3: [512]}, Completo: True, Conexion: 17
+ID205, Vecinos: {0: [367], 1: [197], 2: [517], 3: [353], 4: [87]}, Completo: True, Conexion: 33
+ID367, Vecinos: {0: [192], 1: [3], 2: [1010], 3: [200]}, Completo: True, Conexion: 7
+ID192, Vecinos: {0: [673]}, Completo: True, Conexion: 10
+ID673, Vecinos: {0: [1102], 1: [123], 2: [73], 3: [191]}, Completo: True, Conexion: 13
+ID1102, Vecinos: {0: [505], 1: [971], 2: [677], 3: [568]}, Completo: True, Conexion: 20
+ID505, Vecinos: {0: [983], 1: [121, 17], 2: [29], 3: [186], 4: [566], 5: [1136]}, Completo: True, Conexion: 20
+ID983, Vecinos: {0: [660], 1: [951], 2: [1013]}, Completo: True, Conexion: 27
+ID660, Vecinos: {0: [780], 1: [768], 2: [829], 3: [413, 498, 843], 4: [721]}, Completo: True, Conexion: 23
+ID114, Vecinos: {0: [777]}, Completo: True, Conexion: 37
+ID777, Vecinos: {0: [668], 1: [307], 2: [77], 3: [771], 4: [747], 5: [463], 6: [624]}, Completo: True, Conexion: 53
+ID891, Vecinos: {0: [95]}, Completo: True, Conexion: 30
+ID95, Vecinos: {0: [343], 1: [300], 2: [89], 3: [422], 4: [632], 5: [838]}, Completo: True, Conexion: 37
+ID343, Vecinos: {0: [1013]}, Completo: True, Conexion: 7
+ID1013, Vecinos: {0: [971]}, Completo: True, Conexion: 22
+ID971, Vecinos: {0: [928], 1: [310], 2: [844, 254], 3: [152]}, Completo: True, Conexion: 47
+ID1072, Vecinos: {0: [1105], 1: [891], 2: [8], 3: [784], 4: [769], 5: [989]}, Completo: True, Conexion: 20
+ID1105, Vecinos: {0: [715], 1: [1035], 2: [236]}, Completo: True, Conexion: 11
+ID715, Vecinos: {0: [47], 1: [747], 2: [620], 3: [997], 4: [295], 5: [826], 6: [69]}, Completo: True, Conexion: 10
+ID47, Vecinos: {0: [1012], 1: [947], 2: [4], 3: [510], 4: [144], 5: [941]}, Completo: True, Conexion: 24
+ID1012, Vecinos: {0: [315], 1: [761], 2: [579], 3: [398, 450], 4: [323], 5: [174], 6: [702]}, Completo: True, Conexion: 13
+ID315, Vecinos: {0: [791], 1: [70], 2: [689], 3: [491], 4: [1061], 5: [528], 6: [953]}, Completo: True, Conexion: 24
+ID791, Vecinos: {0: [427], 1: [394]}, Completo: True, Conexion: 31
+ID427, Vecinos: {0: [44], 1: [763], 2: [530], 3: [860], 4: [462], 5: [755]}, Completo: True, Conexion: 23
+ID44, Vecinos: {0: [632], 1: [647], 2: [128], 3: [212], 4: [888], 5: [75]}, Completo: True, Conexion: 16
+ID632, Vecinos: {0: [1086], 1: [983]}, Completo: True, Conexion: 24
+ID1086, Vecinos: {0: [282], 1: [895], 2: [416]}, Completo: True, Conexion: 12
+ID282, Vecinos: {0: [578], 1: [429], 2: [918], 3: [945], 4: [304], 5: [479], 6: [2]}, Completo: True, Conexion: 18
+ID578, Vecinos: {0: [1044]}, Completo: True, Conexion: 5
+ID1044, Vecinos: {0: [642], 1: [69], 2: [368]}, Completo: True, Conexion: 17
+ID642, Vecinos: {0: [445], 1: [1096], 2: [502], 3: [426], 4: [452], 5: [392]}, Completo: True, Conexion: 14
+ID445, Vecinos: {0: [1073], 1: [440], 2: [73], 3: [944], 4: [1004]}, Completo: True, Conexion: 13
+ID1073, Vecinos: {0: [921], 1: [44]}, Completo: True, Conexion: 7
+ID921, Vecinos: {0: [665], 1: [884], 2: [778], 3: [316], 4: [850], 5: [1028], 6: [1103]}, Completo: True, Conexion: 16
+ID665, Vecinos: {0: [168], 1: [830]}, Completo: True, Conexion: 14
+ID168, Vecinos: {0: [293], 1: [727], 2: [739]}, Completo: True, Conexion: 10
+ID293, Vecinos: {0: [108, 962], 1: [597]}, Completo: True, Conexion: 8
+ID108, Vecinos: {0: [939]}, Completo: True, Conexion: 18
+ID939, Vecinos: {0: [404]}, Completo: True, Conexion: 38
+ID404, Vecinos: {0: [1099], 1: [536]}, Completo: True, Conexion: 43
+ID1099, Vecinos: {0: [959], 1: [1115], 2: [541], 3: [568], 4: [757]}, Completo: True, Conexion: 28
+ID959, Vecinos: {0: [78], 1: [933]}, Completo: True, Conexion: 39
+ID78, Vecinos: {0: [229], 1: [753], 2: [250]}, Completo: True, Conexion: 36
+ID229, Vecinos: {0: [995], 1: [605], 2: [261], 3: [670]}, Completo: True, Conexion: 27
+ID995, Vecinos: {0: [118], 1: [238], 2: [965]}, Completo: True, Conexion: 37
+ID118, Vecinos: {0: [235], 1: [204], 2: [498], 3: [32]}, Completo: True, Conexion: 19
+ID235, Vecinos: {0: [755], 1: [625]}, Completo: True, Conexion: 8
+ID755, Vecinos: {0: [725], 1: [360], 2: [548], 3: [228], 4: [538]}, Completo: True, Conexion: 20
+ID725, Vecinos: {0: [984]}, Completo: True, Conexion: 14
+ID984, Vecinos: {0: [486], 1: [42], 2: [892], 3: [965], 4: [228]}, Completo: True, Conexion: 27
+ID486, Vecinos: {0: [559], 1: [383], 2: [167]}, Completo: True, Conexion: 14
+ID559, Vecinos: {0: [88], 1: [620], 2: [284], 3: [852], 4: [1002]}, Completo: False, Conexion: 5
+ID88, Vecinos: {0: [515], 1: [952, 379, 711], 2: [179]}, Completo: True, Conexion: 15
+ID1085, Vecinos: {0: [972], 1: [773], 2: [1031]}, Completo: True, Conexion: 36
+ID972, Vecinos: {0: [334], 1: [546], 2: [665], 3: [1024]}, Completo: True, Conexion: 20
+ID334, Vecinos: {0: [946], 1: [583], 2: [772]}, Completo: True, Conexion: 15
+ID946, Vecinos: {0: [244], 1: [951], 2: [502], 3: [761]}, Completo: True, Conexion: 27
+ID244, Vecinos: {0: [22], 1: [790], 2: [193], 3: [817]}, Completo: True, Conexion: 14
+ID22, Vecinos: {0: [443], 1: [722]}, Completo: True, Conexion: 21
+ID443, Vecinos: {0: [978], 1: [482], 2: [938]}, Completo: True, Conexion: 19
+ID978, Vecinos: {0: [817]}, Completo: True, Conexion: 7
+ID817, Vecinos: {0: [907]}, Completo: True, Conexion: 37
+ID907, Vecinos: {0: [912], 1: [1006], 2: [963], 3: [944], 4: [140]}, Completo: True, Conexion: 46
+ID912, Vecinos: {0: [923], 1: [376], 2: [662], 3: [617]}, Completo: True, Conexion: 26
+ID923, Vecinos: {0: [1113], 1: [852], 2: [395], 3: [536], 4: [167], 5: [341], 6: [281]}, Completo: True, Conexion: 38
+ID1113, Vecinos: {0: [423], 1: [1087], 2: [542], 3: [423], 4: [442], 5: [369]}, Completo: True, Conexion: 24
+ID423, Vecinos: {0: [425], 1: [830], 2: [864], 3: [751], 4: [350]}, Completo: True, Conexion: 14
+ID425, Vecinos: {0: [1139], 1: [900], 2: [1062], 3: [703], 4: [770], 5: [1023], 6: [776]}, Completo: True, Conexion: 20
+ID1139, Vecinos: {0: [323], 1: [160], 2: [568], 3: [462], 4: [234]}, Completo: True, Conexion: 8
+ID323, Vecinos: {0: [1094], 1: [631], 2: [1110], 3: [527]}, Completo: True, Conexion: 21
+ID1094, Vecinos: {0: [207], 1: [1145], 2: [182], 3: [101], 4: [57], 5: [776], 6: [15]}, Completo: True, Conexion: 26
+ID207, Vecinos: {0: [1089], 1: [24], 2: [829]}, Completo: True, Conexion: 21
+ID1089, Vecinos: {0: [14], 1: [841], 2: [909, 87], 3: [474], 4: [395], 5: [290]}, Completo: True, Conexion: 29
+ID14, Vecinos: {0: [393], 1: [596]}, Completo: True, Conexion: 28
+ID393, Vecinos: {0: [896], 1: [1025], 2: [104], 3: [1072], 4: [72], 5: [450]}, Completo: True, Conexion: 23
+ID896, Vecinos: {0: [142]}, Completo: True, Conexion: 12
+ID142, Vecinos: {0: [820]}, Completo: True, Conexion: 23
+ID820, Vecinos: {0: [203], 1: [780], 2: [1056], 3: [517], 4: [495], 5: [1132]}, Completo: True, Conexion: 36
+ID203, Vecinos: {0: [871]}, Completo: True, Conexion: 11
+ID871, Vecinos: {0: [90], 1: [583], 2: [206], 3: [359]}, Completo: True, Conexion: 38
+ID90, Vecinos: {0: [123], 1: [868], 2: [897], 3: [679]}, Completo: True, Conexion: 16
+ID123, Vecinos: {0: [501], 1: [207]}, Completo: True, Conexion: 17
+ID501, Vecinos: {0: [1059], 1: [551], 2: [376], 3: [38], 4: [95]}, Completo: True, Conexion: 32
+ID1059, Vecinos: {0: [283], 1: [564], 2: [394], 3: [322]}, Completo: True, Conexion: 18
+ID283, Vecinos: {0: [506], 1: [260], 2: [247], 3: [1114], 4: [286]}, Completo: True, Conexion: 23
+ID506, Vecinos: {0: [963], 1: [104], 2: [558], 3: [312]}, Completo: True, Conexion: 10
+ID963, Vecinos: {0: [1131], 1: [246], 2: [482]}, Completo: True, Conexion: 25
+ID1131, Vecinos: {0: [390], 1: [340]}, Completo: True, Conexion: 22
+ID390, Vecinos: {0: [768], 1: [1018], 2: [911], 3: [1094], 4: [479]}, Completo: True, Conexion: 23
+ID768, Vecinos: {0: [692], 1: [58], 2: [228]}, Completo: True, Conexion: 29
+ID692, Vecinos: {0: [722], 1: [924], 2: [1022], 3: [152], 4: [451], 5: [214], 6: [101]}, Completo: True, Conexion: 24
+ID722, Vecinos: {0: [839], 1: [900], 2: [499], 3: [277], 4: [347], 5: [887]}, Completo: True, Conexion: 15
+ID839, Vecinos: {0: [794], 1: [1099], 2: [382], 3: [467], 4: [1128], 5: [547], 6: [458]}, Completo: True, Conexion: 13
+ID794, Vecinos: {0: [28], 1: [14], 2: [1048], 3: [1131]}, Completo: True, Conexion: 8
+ID28, Vecinos: {0: [145], 1: [510]}, Completo: True, Conexion: 11
+ID145, Vecinos: {0: [869], 1: [512], 2: [14], 3: [843], 4: [10], 5: [62]}, Completo: True, Conexion: 22
+ID869, Vecinos: {0: [419], 1: [1101], 2: [522], 3: [536], 4: [474], 5: [422], 6: [788]}, Completo: True, Conexion: 38
+ID419, Vecinos: {0: [1006], 1: [947]}, Completo: True, Conexion: 20
+ID1006, Vecinos: {0: [385], 1: [562]}, Completo: True, Conexion: 24
+ID385, Vecinos: {0: [746], 1: [114], 2: [791]}, Completo: True, Conexion: 43
+ID746, Vecinos: {0: [607], 1: [506], 2: [590], 3: [541], 4: [707], 5: [444], 6: [190]}, Completo: True, Conexion: 32
+ID607, Vecinos: {0: [466]}, Completo: True, Conexion: 8
+ID466, Vecinos: {0: [587], 1: [153]}, Completo: True, Conexion: 25
+ID587, Vecinos: {0: [1075], 1: [1038], 2: [571]}, Completo: True, Conexion: 24
+ID1075, Vecinos: {0: [981], 1: [479], 2: [259], 3: [903], 4: [787], 5: [254], 6: [659]}, Completo: True, Conexion: 39
+ID981, Vecinos: {0: [7], 1: [901], 2: [677], 3: [967]}, Completo: True, Conexion: 35
+ID7, Vecinos: {0: [678], 1: [403], 2: [393], 3: [1127]}, Completo: True, Conexion: 25
+ID678, Vecinos: {0: [194], 1: [309], 2: [247], 3: [224], 4: [662], 5: [239], 6: [992]}, Completo: True, Conexion: 7
+ID194, Vecinos: {0: [329], 1: [971], 2: [385]}, Completo: True, Conexion: 10
+ID329, Vecinos: {0: [34], 1: [267]}, Completo: True, Conexion: 21
+ID34, Vecinos: {0: [793], 1: [169], 2: [46], 3: [710], 4: [314]}, Completo: True, Conexion: 24
+ID793, Vecinos: {0: [956], 1: [695], 2: [78]}, Completo: True, Conexion: 44
+ID956, Vecinos: {0: [1110], 1: [949], 2: [194], 3: [641], 4: [33], 5: [860], 6: [840]}, Completo: True, Conexion: 26
+ID1110, Vecinos: {0: [1136], 1: [188], 2: [77]}, Completo: True, Conexion: 23
+ID1136, Vecinos: {0: [733], 1: [321]}, Completo: True, Conexion: 15
+ID733, Vecinos: {0: [810], 1: [579]}, Completo: True, Conexion: 17
+ID810, Vecinos: {0: [887], 1: [455], 2: [201], 3: [1111]}, Completo: True, Conexion: 11
+ID887, Vecinos: {0: [153]}, Completo: True, Conexion: 19
+ID153, Vecinos: {0: [1104], 1: [249], 2: [1018], 3: [1113]}, Completo: True, Conexion: 58
+ID1104, Vecinos: {0: [474]}, Completo: True, Conexion: 23
+ID474, Vecinos: {0: [492], 1: [662], 2: [283], 3: [869], 4: [1079], 5: [786], 6: [433]}, Completo: True, Conexion: 36
+ID492, Vecinos: {0: [727], 1: [356], 2: [1104], 3: [577], 4: [963], 5: [86], 6: [291]}, Completo: True, Conexion: 18
+ID727, Vecinos: {0: [198], 1: [585]}, Completo: True, Conexion: 11
+ID198, Vecinos: {0: [230], 1: [873]}, Completo: True, Conexion: 24
+ID230, Vecinos: {0: [504]}, Completo: True, Conexion: 36
+ID504, Vecinos: {0: [489], 1: [84]}, Completo: True, Conexion: 36
+ID489, Vecinos: {0: [571], 1: [464], 2: [145], 3: [560], 4: [384], 5: [4], 6: [681]}, Completo: True, Conexion: 25
+ID571, Vecinos: {0: [709], 1: [441], 2: [243], 3: [888]}, Completo: True, Conexion: 12
+ID709, Vecinos: {0: [802], 1: [785], 2: [18], 3: [620]}, Completo: True, Conexion: 21
+ID802, Vecinos: {0: [784], 1: [151], 2: [69], 3: [448], 4: [1007]}, Completo: True, Conexion: 11
+ID784, Vecinos: {0: [1015], 1: [751], 2: [1089]}, Completo: True, Conexion: 27
+ID1015, Vecinos: {0: [1079], 1: [394], 2: [946], 3: [89], 4: [529]}, Completo: True, Conexion: 22
+ID1079, Vecinos: {0: [450]}, Completo: True, Conexion: 20
+ID450, Vecinos: {0: [77]}, Completo: True, Conexion: 41
+ID77, Vecinos: {0: [838], 1: [793]}, Completo: True, Conexion: 65
+ID838, Vecinos: {0: [242, 756, 426], 1: [878], 2: [711]}, Completo: True, Conexion: 46
+ID242, Vecinos: {0: [133], 1: [300], 2: [627], 3: [466], 4: [417], 5: [1056]}, Completo: True, Conexion: 18
+ID133, Vecinos: {0: [465], 1: [778], 2: [1112], 3: [122], 4: [171]}, Completo: True, Conexion: 12
+ID465, Vecinos: {0: [424], 1: [1032], 2: [687], 3: [1072]}, Completo: True, Conexion: 19
+ID424, Vecinos: {0: [97], 1: [936]}, Completo: True, Conexion: 23
+ID97, Vecinos: {0: [415]}, Completo: True, Conexion: 25
+ID415, Vecinos: {0: [58], 1: [97], 2: [1018], 3: [301], 4: [566], 5: [137], 6: [933]}, Completo: True, Conexion: 38
+ID58, Vecinos: {0: [633], 1: [209], 2: [723], 3: [374], 4: [229], 5: [759]}, Completo: True, Conexion: 27
+ID633, Vecinos: {0: [540], 1: [751], 2: [1040], 3: [738], 4: [817], 5: [243]}, Completo: True, Conexion: 17
+ID540, Vecinos: {0: [232], 1: [969], 2: [239]}, Completo: True, Conexion: 11
+ID232, Vecinos: {0: [240], 1: [602], 2: [149], 3: [892]}, Completo: True, Conexion: 9
+ID240, Vecinos: {0: [533], 1: [135], 2: [576], 3: [709], 4: [134], 5: [934], 6: [499]}, Completo: True, Conexion: 10
+ID533, Vecinos: {0: [1078], 1: [501], 2: [6], 3: [342]}, Completo: True, Conexion: 12
+ID1078, Vecinos: {0: [875], 1: [449], 2: [63], 3: [26], 4: [617], 5: [915]}, Completo: True, Conexion: 6
+ID875, Vecinos: {0: [182], 1: [244], 2: [663], 3: [593], 4: [216]}, Completo: True, Conexion: 20
+ID182, Vecinos: {0: [850], 1: [10], 2: [839], 3: [1092], 4: [534], 5: [943]}, Completo: True, Conexion: 20
+ID850, Vecinos: {0: [833], 1: [843], 2: [99], 3: [891], 4: [187], 5: [788], 6: [1137]}, Completo: True, Conexion: 18
+ID833, Vecinos: {0: [803], 1: [8], 2: [475], 3: [757], 4: [1145], 5: [166], 6: [782]}, Completo: True, Conexion: 46
+ID803, Vecinos: {0: [228], 1: [359], 2: [1069]}, Completo: True, Conexion: 11
+ID228, Vecinos: {0: [998], 1: [872, 1081]}, Completo: True, Conexion: 37
+ID998, Vecinos: {0: [439], 1: [1120], 2: [396]}, Completo: True, Conexion: 24
+ID439, Vecinos: {0: [314], 1: [768], 2: [613, 227, 34], 3: [750], 4: [197]}, Completo: True, Conexion: 41
+ID314, Vecinos: {0: [626], 1: [939]}, Completo: True, Conexion: 21
+ID626, Vecinos: {0: [588, 223], 1: [459], 2: [777], 3: [26], 4: [342], 5: [134]}, Completo: True, Conexion: 18
+ID588, Vecinos: {0: [172], 1: [100]}, Completo: True, Conexion: 42
+ID172, Vecinos: {0: [970], 1: [38], 2: [555]}, Completo: True, Conexion: 25
+ID970, Vecinos: {0: [234], 1: [13], 2: [241]}, Completo: True, Conexion: 12
+ID234, Vecinos: {0: [523], 1: [901], 2: [799], 3: [566], 4: [1105]}, Completo: True, Conexion: 14
+ID523, Vecinos: {0: [782], 1: [309, 931]}, Completo: True, Conexion: 34
+ID782, Vecinos: {0: [895], 1: [754], 2: [647]}, Completo: True, Conexion: 40
+ID895, Vecinos: {0: [1111], 1: [1026], 2: [836], 3: [358], 4: [483]}, Completo: True, Conexion: 27
+ID1111, Vecinos: {0: [849], 1: [1115], 2: [563], 3: [776], 4: [954]}, Completo: True, Conexion: 10
+ID849, Vecinos: {0: [730], 1: [1142], 2: [652]}, Completo: True, Conexion: 5
+ID730, Vecinos: {0: [288], 1: [67], 2: [520]}, Completo: True, Conexion: 11
+ID288, Vecinos: {0: [285], 1: [635], 2: [98], 3: [16]}, Completo: True, Conexion: 4
+ID285, Vecinos: {0: [126], 1: [183]}, Completo: True, Conexion: 6
+ID126, Vecinos: {0: [694], 1: [12], 2: [230], 3: [588], 4: [989], 5: [348], 6: [1048]}, Completo: True, Conexion: 14
+ID694, Vecinos: {0: [526], 1: [608], 2: [867], 3: [1048], 4: [425]}, Completo: True, Conexion: 30
+ID526, Vecinos: {0: [204], 1: [509], 2: [460], 3: [562]}, Completo: True, Conexion: 8
+ID204, Vecinos: {0: [10], 1: [698], 2: [771], 3: [1024], 4: [292]}, Completo: True, Conexion: 12
+ID10, Vecinos: {0: [952], 1: [772]}, Completo: True, Conexion: 28
+ID952, Vecinos: {0: [596], 1: [759], 2: [562], 3: [331], 4: [1139], 5: [937]}, Completo: True, Conexion: 22
+ID596, Vecinos: {0: [256], 1: [278]}, Completo: True, Conexion: 22
+ID256, Vecinos: {0: [394], 1: [183], 2: [1019], 3: [468], 4: [959], 5: [896]}, Completo: True, Conexion: 21
+ID394, Vecinos: {0: [622], 1: [12], 2: [152], 3: [200], 4: [191], 5: [589]}, Completo: True, Conexion: 33
+ID622, Vecinos: {0: [245], 1: [644]}, Completo: True, Conexion: 15
+ID245, Vecinos: {0: [1092], 1: [38], 2: [958], 3: [424], 4: [832], 5: [451], 6: [232]}, Completo: True, Conexion: 20
+ID1092, Vecinos: {0: [809], 1: [93]}, Completo: True, Conexion: 6
+ID809, Vecinos: {0: [156], 1: [879], 2: [743], 3: [50]}, Completo: True, Conexion: 19
+ID156, Vecinos: {0: [413], 1: [939], 2: [755], 3: [759]}, Completo: True, Conexion: 10
+ID413, Vecinos: {0: [957], 1: [762], 2: [286], 3: [797]}, Completo: False, Conexion: 4
+ID957, Vecinos: {0: [1128]}, Completo: False, Conexion: 1
+ID1128, Vecinos: {0: [460], 1: [310], 2: [707]}, Completo: True, Conexion: 5
+ID460, Vecinos: {0: [208], 1: [1068], 2: [498], 3: [499], 4: [681], 5: [1049]}, Completo: True, Conexion: 7
+ID208, Vecinos: {0: [324]}, Completo: True, Conexion: 3
+ID324, Vecinos: {0: [695], 1: [283], 2: [943], 3: [688], 4: [142], 5: [241]}, Completo: True, Conexion: 33
+ID695, Vecinos: {0: [81], 1: [103], 2: [209], 3: [143], 4: [67], 5: [630], 6: [996]}, Completo: True, Conexion: 24
+ID704, Vecinos: {0: [577], 1: [36], 2: [561], 3: [323], 4: [332], 5: [769]}, Completo: True, Conexion: 96
+ID577, Vecinos: {0: [816], 1: [523], 2: [368], 3: [216], 4: [1014]}, Completo: True, Conexion: 34
+ID816, Vecinos: {0: [173]}, Completo: True, Conexion: 9
+ID173, Vecinos: {0: [178], 1: [605], 2: [545], 3: [685], 4: [154]}, Completo: True, Conexion: 20
+ID178, Vecinos: {0: [866], 1: [432], 2: [411], 3: [314], 4: [481]}, Completo: True, Conexion: 16
+ID866, Vecinos: {0: [519], 1: [824], 2: [674], 3: [416], 4: [848], 5: [918]}, Completo: True, Conexion: 20
+ID519, Vecinos: {0: [691], 1: [762], 2: [819], 3: [350]}, Completo: True, Conexion: 15
+ID691, Vecinos: {0: [373], 1: [1040], 2: [52]}, Completo: True, Conexion: 21
+ID373, Vecinos: {0: [765]}, Completo: True, Conexion: 18
+ID765, Vecinos: {0: [761], 1: [581], 2: [892], 3: [760]}, Completo: True, Conexion: 45
+ID761, Vecinos: {0: [1056], 1: [230], 2: [179], 3: [788]}, Completo: True, Conexion: 37
+ID1056, Vecinos: {0: [1005], 1: [509]}, Completo: True, Conexion: 23
+ID1005, Vecinos: {0: [1031], 1: [584], 2: [982], 3: [292], 4: [1127], 5: [837]}, Completo: True, Conexion: 20
+ID1031, Vecinos: {0: [614]}, Completo: True, Conexion: 31
+ID614, Vecinos: {0: [748], 1: [712]}, Completo: True, Conexion: 33
+ID748, Vecinos: {0: [295]}, Completo: True, Conexion: 21
+ID380, Vecinos: {0: [948], 1: [1081], 2: [233]}, Completo: True, Conexion: 23
+ID948, Vecinos: {0: [584], 1: [884], 2: [937], 3: [20], 4: [1055], 5: [708]}, Completo: True, Conexion: 13
+ID584, Vecinos: {0: [891], 1: [1048, 1007], 2: [562], 3: [15], 4: [879]}, Completo: True, Conexion: 27
+ID300, Vecinos: {0: [522], 1: [584], 2: [913], 3: [663], 4: [107], 5: [110], 6: [6]}, Completo: True, Conexion: 48
+ID522, Vecinos: {0: [39], 1: [477], 2: [919]}, Completo: True, Conexion: 14
+ID39, Vecinos: {0: [345]}, Completo: True, Conexion: 5
+ID345, Vecinos: {0: [891], 1: [927], 2: [554], 3: [757], 4: [452], 5: [759]}, Completo: True, Conexion: 10
+ID89, Vecinos: {0: [698], 1: [87]}, Completo: True, Conexion: 32
+ID698, Vecinos: {0: [496], 1: [693], 2: [342], 3: [884]}, Completo: True, Conexion: 21
+ID496, Vecinos: {0: [38], 1: [636], 2: [374], 3: [689], 4: [900], 5: [1024]}, Completo: True, Conexion: 17
+ID38, Vecinos: {0: [913], 1: [266], 2: [324], 3: [383], 4: [61], 5: [161], 6: [920]}, Completo: True, Conexion: 26
+ID913, Vecinos: {0: [664], 1: [565], 2: [440], 3: [936]}, Completo: True, Conexion: 19
+ID664, Vecinos: {0: [346], 1: [146], 2: [286]}, Completo: True, Conexion: 28
+ID346, Vecinos: {0: [545], 1: [270], 2: [884]}, Completo: True, Conexion: 20
+ID545, Vecinos: {0: [1137], 1: [126]}, Completo: True, Conexion: 17
+ID1137, Vecinos: {0: [1018]}, Completo: True, Conexion: 23
+ID1018, Vecinos: {0: [432], 1: [947, 823, 329]}, Completo: True, Conexion: 62
+ID432, Vecinos: {0: [102], 1: [216]}, Completo: True, Conexion: 37
+ID102, Vecinos: {0: [131]}, Completo: True, Conexion: 27
+ID131, Vecinos: {0: [742], 1: [923], 2: [852], 3: [1121]}, Completo: True, Conexion: 28
+ID742, Vecinos: {0: [109], 1: [632], 2: [549], 3: [190], 4: [964], 5: [653]}, Completo: True, Conexion: 10
+ID109, Vecinos: {0: [53], 1: [414], 2: [333], 3: [882]}, Completo: False, Conexion: 4
+ID53, Vecinos: {0: [572], 1: [514], 2: [165], 3: [299], 4: [687], 5: [592]}, Completo: True, Conexion: 17
+ID572, Vecinos: {0: [827], 1: [399]}, Completo: True, Conexion: 12
+ID827, Vecinos: {0: [724], 1: [765, 1118]}, Completo: True, Conexion: 11
+ID724, Vecinos: {0: [67], 1: [47], 2: [604], 3: [592], 4: [127], 5: [264]}, Completo: True, Conexion: 18
+ID67, Vecinos: {0: [1041], 1: [706], 2: [209]}, Completo: True, Conexion: 32
+ID1041, Vecinos: {0: [1084]}, Completo: True, Conexion: 20
+ID1084, Vecinos: {0: [1107], 1: [858]}, Completo: True, Conexion: 24
+ID1107, Vecinos: {0: [223], 1: [947], 2: [74], 3: [602], 4: [352]}, Completo: True, Conexion: 20
+ID223, Vecinos: {0: [542], 1: [875], 2: [738]}, Completo: True, Conexion: 12
+ID542, Vecinos: {0: [510], 1: [782], 2: [925], 3: [617]}, Completo: True, Conexion: 21
+ID510, Vecinos: {0: [355], 1: [98], 2: [1088, 882], 3: [409]}, Completo: True, Conexion: 20
+ID355, Vecinos: {0: [276], 1: [613]}, Completo: True, Conexion: 9
+ID276, Vecinos: {0: [985], 1: [996], 2: [764], 3: [1059], 4: [577], 5: [1021], 6: [898]}, Completo: True, Conexion: 10
+ID985, Vecinos: {0: [502], 1: [864], 2: [1072], 3: [445], 4: [20], 5: [1111], 6: [192]}, Completo: True, Conexion: 11
+ID502, Vecinos: {0: [275], 1: [1107], 2: [988], 3: [482], 4: [966]}, Completo: True, Conexion: 22
+ID275, Vecinos: {0: [448], 1: [528]}, Completo: True, Conexion: 16
+ID448, Vecinos: {0: [702], 1: [371], 2: [377], 3: [795], 4: [403]}, Completo: True, Conexion: 13
+ID702, Vecinos: {0: [945], 1: [983], 2: [259], 3: [908], 4: [799], 5: [179]}, Completo: True, Conexion: 20
+ID945, Vecinos: {0: [136], 1: [761], 2: [664], 3: [153], 4: [655], 5: [919]}, Completo: True, Conexion: 15
+ID136, Vecinos: {0: [823], 1: [231]}, Completo: True, Conexion: 15
+ID823, Vecinos: {0: [92], 1: [360], 2: [877], 3: [420], 4: [68], 5: [874], 6: [28]}, Completo: True, Conexion: 51
+ID92, Vecinos: {0: [308], 1: [290], 2: [928], 3: [1119]}, Completo: True, Conexion: 8
+ID308, Vecinos: {0: [508], 1: [178], 2: [912], 3: [1031], 4: [473], 5: [1], 6: [113]}, Completo: True, Conexion: 7
+ID508, Vecinos: {0: [721], 1: [566], 2: [802], 3: [569]}, Completo: True, Conexion: 5
+ID384, Vecinos: {0: [91], 1: [135]}, Completo: True, Conexion: 42
+ID91, Vecinos: {0: [401]}, Completo: True, Conexion: 43
+ID401, Vecinos: {0: [1057], 1: [585], 2: [579], 3: [954], 4: [905], 5: [1020], 6: [568]}, Completo: True, Conexion: 43
+ID1057, Vecinos: {0: [444], 1: [608], 2: [432], 3: [1127], 4: [1024], 5: [1046], 6: [431]}, Completo: True, Conexion: 9
+ID444, Vecinos: {0: [1119]}, Completo: True, Conexion: 9
+ID1119, Vecinos: {0: [738], 1: [455]}, Completo: True, Conexion: 13
+ID738, Vecinos: {0: [1135], 1: [433], 2: [818], 3: [702], 4: [492], 5: [372]}, Completo: True, Conexion: 22
+ID1135, Vecinos: {0: [741], 1: [534], 2: [630], 3: [664]}, Completo: True, Conexion: 10
+ID741, Vecinos: {0: [111]}, Completo: True, Conexion: 11
+ID111, Vecinos: {0: [320], 1: [825], 2: [1138], 3: [716], 4: [970], 5: [390], 6: [445]}, Completo: True, Conexion: 20
+ID320, Vecinos: {0: [893], 1: [1060], 2: [963], 3: [1122]}, Completo: True, Conexion: 16
+ID893, Vecinos: {0: [965], 1: [632], 2: [1013], 3: [887], 4: [597]}, Completo: True, Conexion: 10
+ID965, Vecinos: {0: [1033], 1: [684], 2: [688]}, Completo: True, Conexion: 28
+ID1033, Vecinos: {0: [32], 1: [1060], 2: [700], 3: [112], 4: [475], 5: [707]}, Completo: True, Conexion: 26
+ID32, Vecinos: {0: [311], 1: [923], 2: [633]}, Completo: True, Conexion: 21
+ID311, Vecinos: {0: [770], 1: [771], 2: [35]}, Completo: True, Conexion: 23
+ID770, Vecinos: {0: [1114], 1: [352], 2: [577], 3: [143], 4: [540]}, Completo: True, Conexion: 19
+ID1114, Vecinos: {0: [532], 1: [993], 2: [193], 3: [1122]}, Completo: True, Conexion: 11
+ID532, Vecinos: {0: [1124], 1: [298]}, Completo: True, Conexion: 19
+ID1124, Vecinos: {0: [116], 1: [340], 2: [503], 3: [693]}, Completo: True, Conexion: 19
+ID116, Vecinos: {0: [936], 1: [981], 2: [1075]}, Completo: True, Conexion: 11
+ID936, Vecinos: {0: [795], 1: [947]}, Completo: True, Conexion: 24
+ID795, Vecinos: {0: [29], 1: [442], 2: [924], 3: [659]}, Completo: True, Conexion: 14
+ID29, Vecinos: {0: [134], 1: [786], 2: [371], 3: [212], 4: [154]}, Completo: True, Conexion: 8
+ID134, Vecinos: {0: [467], 1: [1057], 2: [475], 3: [329], 4: [1126], 5: [1138]}, Completo: True, Conexion: 12
+ID467, Vecinos: {0: [242], 1: [667], 2: [49], 3: [585], 4: [761], 5: [1101], 6: [631]}, Completo: True, Conexion: 11
+ID1048, Vecinos: {0: [1100], 1: [67], 2: [490], 3: [72], 4: [863], 5: [267]}, Completo: True, Conexion: 43
+ID1100, Vecinos: {0: [296], 1: [1070], 2: [330], 3: [996], 4: [562], 5: [634]}, Completo: True, Conexion: 28
+ID296, Vecinos: {0: [428], 1: [24], 2: [1110], 3: [860], 4: [558]}, Completo: True, Conexion: 24
+ID428, Vecinos: {0: [789], 1: [640], 2: [1126], 3: [762], 4: [987], 5: [995]}, Completo: True, Conexion: 7
+ID789, Vecinos: {0: [702, 1076], 1: [15]}, Completo: True, Conexion: 17
+ID951, Vecinos: {0: [371]}, Completo: True, Conexion: 34
+ID371, Vecinos: {0: [169], 1: [490], 2: [594], 3: [994], 4: [785], 5: [159]}, Completo: True, Conexion: 48
+ID169, Vecinos: {0: [516]}, Completo: True, Conexion: 18
+ID516, Vecinos: {0: [360], 1: [778], 2: [107], 3: [851], 4: [385], 5: [950]}, Completo: True, Conexion: 18
+ID360, Vecinos: {0: [843]}, Completo: True, Conexion: 24
+ID843, Vecinos: {0: [1108], 1: [746], 2: [761], 3: [573]}, Completo: True, Conexion: 35
+ID1108, Vecinos: {0: [588], 1: [110]}, Completo: True, Conexion: 13
+ID307, Vecinos: {0: [366], 1: [129]}, Completo: True, Conexion: 28
+ID366, Vecinos: {0: [603], 1: [485]}, Completo: True, Conexion: 14
+ID603, Vecinos: {0: [35], 1: [919], 2: [542], 3: [1039], 4: [151], 5: [491]}, Completo: True, Conexion: 18
+ID35, Vecinos: {0: [621], 1: [10], 2: [444], 3: [998], 4: [545], 5: [972], 6: [533]}, Completo: True, Conexion: 10
+ID621, Vecinos: {0: [187], 1: [832], 2: [414], 3: [967]}, Completo: True, Conexion: 13
+ID187, Vecinos: {0: [1081], 1: [1090], 2: [961]}, Completo: True, Conexion: 17
+ID1081, Vecinos: {0: [517], 1: [780], 2: [884], 3: [757], 4: [108, 3], 5: [528], 6: [877]}, Completo: True, Conexion: 38
+ID517, Vecinos: {0: [120], 1: [717], 2: [1065], 3: [336], 4: [68], 5: [984]}, Completo: True, Conexion: 29
+ID120, Vecinos: {0: [514], 1: [58]}, Completo: True, Conexion: 7
+ID514, Vecinos: {0: [494]}, Completo: True, Conexion: 7
+ID494, Vecinos: {0: [685], 1: [700], 2: [6], 3: [719], 4: [513], 5: [621], 6: [264]}, Completo: True, Conexion: 17
+ID685, Vecinos: {0: [726], 1: [700], 2: [158], 3: [675], 4: [134], 5: [533], 6: [308]}, Completo: True, Conexion: 8
+ID726, Vecinos: {0: [1063], 1: [929], 2: [704], 3: [463], 4: [133]}, Completo: True, Conexion: 26
+ID1063, Vecinos: {0: [41], 1: [716], 2: [313], 3: [580], 4: [325]}, Completo: True, Conexion: 13
+ID41, Vecinos: {0: [944], 1: [648], 2: [216]}, Completo: True, Conexion: 12
+ID944, Vecinos: {0: [1021], 1: [225], 2: [733], 3: [797], 4: [93], 5: [977]}, Completo: True, Conexion: 36
+ID1021, Vecinos: {0: [397]}, Completo: True, Conexion: 16
+ID397, Vecinos: {0: [898], 1: [210], 2: [1077], 3: [477], 4: [1014]}, Completo: True, Conexion: 22
+ID898, Vecinos: {0: [26], 1: [373], 2: [511]}, Completo: True, Conexion: 26
+ID26, Vecinos: {0: [86], 1: [768], 2: [276], 3: [171], 4: [857], 5: [455], 6: [402]}, Completo: True, Conexion: 16
+ID86, Vecinos: {0: [309], 1: [728], 2: [1109], 3: [1117], 4: [1095]}, Completo: True, Conexion: 25
+ID309, Vecinos: {0: [860], 1: [1019], 2: [573], 3: [147]}, Completo: True, Conexion: 41
+ID860, Vecinos: {0: [1093], 1: [466], 2: [210], 3: [140], 4: [690], 5: [736]}, Completo: True, Conexion: 34
+ID651, Vecinos: {0: [403], 1: [944], 2: [1080], 3: [903], 4: [744], 5: [854]}, Completo: True, Conexion: 34
+ID403, Vecinos: {0: [1061], 1: [780], 2: [229], 3: [597], 4: [786], 5: [964], 6: [69]}, Completo: True, Conexion: 25
+ID1061, Vecinos: {0: [348], 1: [496], 2: [793], 3: [44], 4: [635], 5: [734], 6: [863]}, Completo: True, Conexion: 23
+ID348, Vecinos: {0: [456], 1: [786], 2: [245]}, Completo: True, Conexion: 29
+ID456, Vecinos: {0: [13]}, Completo: True, Conexion: 38
+ID13, Vecinos: {0: [840], 1: [888], 2: [1109], 3: [548]}, Completo: True, Conexion: 49
+ID840, Vecinos: {0: [359], 1: [216], 2: [1000], 3: [805], 4: [802], 5: [979]}, Completo: True, Conexion: 20
+ID359, Vecinos: {0: [640]}, Completo: True, Conexion: 25
+ID640, Vecinos: {0: [523], 1: [833], 2: [365], 3: [655]}, Completo: True, Conexion: 28
+ID260, Vecinos: {0: [864], 1: [852]}, Completo: True, Conexion: 12
+ID864, Vecinos: {0: [772], 1: [647], 2: [499], 3: [1081]}, Completo: True, Conexion: 17
+ID772, Vecinos: {0: [469], 1: [566], 2: [426], 3: [726], 4: [234], 5: [533]}, Completo: True, Conexion: 29
+ID469, Vecinos: {0: [136], 1: [671], 2: [633, 1098], 3: [1025], 4: [99]}, Completo: True, Conexion: 22
+ID231, Vecinos: {0: [1091]}, Completo: True, Conexion: 26
+ID1091, Vecinos: {0: [25], 1: [282], 2: [368], 3: [424], 4: [981]}, Completo: True, Conexion: 35
+ID25, Vecinos: {0: [636], 1: [295], 2: [69], 3: [1068], 4: [425], 5: [737], 6: [212]}, Completo: True, Conexion: 28
+ID751, Vecinos: {0: [176], 1: [326]}, Completo: True, Conexion: 48
+ID176, Vecinos: {0: [536]}, Completo: True, Conexion: 32
+ID536, Vecinos: {0: [968], 1: [257], 2: [577], 3: [400], 4: [552], 5: [395], 6: [322]}, Completo: True, Conexion: 70
+ID968, Vecinos: {0: [610], 1: [38], 2: [868], 3: [524], 4: [335], 5: [1140], 6: [625]}, Completo: True, Conexion: 14
+ID610, Vecinos: {0: [754], 1: [809], 2: [265]}, Completo: False, Conexion: 3
+ID754, Vecinos: {0: [157], 1: [746], 2: [945], 3: [961], 4: [229], 5: [719]}, Completo: True, Conexion: 20
+ID157, Vecinos: {0: [186], 1: [805], 2: [466], 3: [165], 4: [854], 5: [997]}, Completo: True, Conexion: 8
+ID186, Vecinos: {0: [626], 1: [43], 2: [555], 3: [789]}, Completo: True, Conexion: 8
+ID459, Vecinos: {0: [885], 1: [1079]}, Completo: True, Conexion: 3
+ID885, Vecinos: {0: [567], 1: [417]}, Completo: True, Conexion: 16
+ID567, Vecinos: {0: [529], 1: [1129], 2: [1096], 3: [613], 4: [50]}, Completo: True, Conexion: 15
+ID529, Vecinos: {0: [798]}, Completo: True, Conexion: 14
+ID798, Vecinos: {0: [1036]}, Completo: True, Conexion: 33
+ID1036, Vecinos: {0: [399], 1: [729], 2: [1094], 3: [258], 4: [955], 5: [198]}, Completo: True, Conexion: 44
+ID299, Vecinos: {0: [910], 1: [1030], 2: [799], 3: [279], 4: [231], 5: [619]}, Completo: True, Conexion: 26
+ID910, Vecinos: {0: [900], 1: [11], 2: [658]}, Completo: True, Conexion: 7
+ID900, Vecinos: {0: [585], 1: [375], 2: [1032], 3: [405]}, Completo: True, Conexion: 20
+ID585, Vecinos: {0: [286], 1: [111], 2: [879], 3: [263], 4: [939], 5: [204], 6: [368]}, Completo: True, Conexion: 32
+ID286, Vecinos: {0: [825], 1: [178], 2: [296], 3: [489], 4: [829], 5: [688], 6: [16]}, Completo: True, Conexion: 42
+ID825, Vecinos: {0: [1040], 1: [1143], 2: [450], 3: [717], 4: [216], 5: [861]}, Completo: True, Conexion: 18
+ID1040, Vecinos: {0: [155], 1: [977], 2: [797], 3: [259], 4: [897]}, Completo: True, Conexion: 22
+ID155, Vecinos: {0: [33], 1: [1033]}, Completo: True, Conexion: 8
+ID24, Vecinos: {0: [874], 1: [301], 2: [658], 3: [909], 4: [1084], 5: [112]}, Completo: True, Conexion: 25
+ID874, Vecinos: {0: [568], 1: [798], 2: [1073]}, Completo: True, Conexion: 12
+ID568, Vecinos: {0: [56], 1: [252], 2: [437], 3: [470], 4: [274], 5: [681], 6: [223]}, Completo: True, Conexion: 32
+ID56, Vecinos: {0: [688]}, Completo: True, Conexion: 14
+ID688, Vecinos: {0: [805], 1: [882], 2: [823], 3: [569]}, Completo: True, Conexion: 51
+ID805, Vecinos: {0: [167], 1: [947]}, Completo: True, Conexion: 22
+ID167, Vecinos: {0: [771], 1: [1002], 2: [830], 3: [606], 4: [1033], 5: [272]}, Completo: True, Conexion: 25
+ID771, Vecinos: {0: [1103], 1: [199, 564]}, Completo: True, Conexion: 37
+ID1103, Vecinos: {0: [732], 1: [241]}, Completo: True, Conexion: 28
+ID732, Vecinos: {0: [1018], 1: [364, 552], 2: [376], 3: [769], 4: [1028], 5: [844]}, Completo: True, Conexion: 14
+ID310, Vecinos: {0: [734], 1: [1085]}, Completo: True, Conexion: 30
+ID734, Vecinos: {0: [824]}, Completo: True, Conexion: 35
+ID824, Vecinos: {0: [677], 1: [767], 2: [341], 3: [932], 4: [575], 5: [585], 6: [554]}, Completo: True, Conexion: 39
+ID677, Vecinos: {0: [687], 1: [452], 2: [663], 3: [354], 4: [235], 5: [314], 6: [580]}, Completo: True, Conexion: 20
+ID687, Vecinos: {0: [662]}, Completo: True, Conexion: 21
+ID662, Vecinos: {0: [353]}, Completo: True, Conexion: 38
+ID353, Vecinos: {0: [1051], 1: [779]}, Completo: True, Conexion: 50
+ID1051, Vecinos: {0: [272], 1: [356], 2: [861], 3: [325], 4: [704]}, Completo: True, Conexion: 32
+ID272, Vecinos: {0: [1145], 1: [664], 2: [739], 3: [183], 4: [839], 5: [112], 6: [1099]}, Completo: True, Conexion: 11
+ID1145, Vecinos: {0: [620], 1: [589], 2: [841], 3: [603], 4: [1039], 5: [726], 6: [97]}, Completo: True, Conexion: 29
+ID620, Vecinos: {0: [45], 1: [1031], 2: [902]}, Completo: True, Conexion: 25
+ID45, Vecinos: {0: [1032], 1: [945], 2: [784], 3: [123]}, Completo: True, Conexion: 20
+ID1032, Vecinos: {0: [65], 1: [831], 2: [195], 3: [1054], 4: [920], 5: [307]}, Completo: True, Conexion: 29
+ID65, Vecinos: {0: [163], 1: [912]}, Completo: True, Conexion: 22
+ID163, Vecinos: {0: [24], 1: [1076], 2: [520], 3: [98], 4: [1071], 5: [419]}, Completo: True, Conexion: 16
+ID43, Vecinos: {0: [128], 1: [1089]}, Completo: True, Conexion: 17
+ID128, Vecinos: {0: [435], 1: [1005], 2: [23]}, Completo: True, Conexion: 18
+ID435, Vecinos: {0: [560]}, Completo: True, Conexion: 13
+ID560, Vecinos: {0: [1072], 1: [183], 2: [572], 3: [553], 4: [256], 5: [952], 6: [680]}, Completo: True, Conexion: 17
+ID422, Vecinos: {0: [27], 1: [184], 2: [439], 3: [1015]}, Completo: True, Conexion: 58
+ID27, Vecinos: {0: [217], 1: [1004], 2: [340]}, Completo: True, Conexion: 22
+ID217, Vecinos: {0: [498], 1: [335]}, Completo: True, Conexion: 8
+ID498, Vecinos: {0: [137], 1: [973], 2: [496], 3: [764]}, Completo: True, Conexion: 20
+ID137, Vecinos: {0: [454], 1: [870]}, Completo: True, Conexion: 12
+ID454, Vecinos: {0: [20], 1: [451], 2: [784]}, Completo: True, Conexion: 15
+ID20, Vecinos: {0: [152]}, Completo: True, Conexion: 10
+ID152, Vecinos: {0: [332], 1: [336], 2: [286], 3: [726]}, Completo: True, Conexion: 40
+ID332, Vecinos: {0: [127], 1: [392]}, Completo: True, Conexion: 29
+ID127, Vecinos: {0: [624], 1: [643], 2: [18], 3: [531], 4: [848]}, Completo: True, Conexion: 38
+ID624, Vecinos: {0: [1055], 1: [1070], 2: [863], 3: [575]}, Completo: True, Conexion: 17
+ID1055, Vecinos: {0: [6], 1: [958], 2: [938], 3: [831], 4: [1026], 5: [720], 6: [1135]}, Completo: True, Conexion: 18
+ID6, Vecinos: {0: [778], 1: [138], 2: [431], 3: [566], 4: [838], 5: [1077]}, Completo: True, Conexion: 29
+ID778, Vecinos: {0: [225], 1: [598], 2: [256], 3: [836], 4: [941], 5: [503], 6: [878]}, Completo: True, Conexion: 23
+ID225, Vecinos: {0: [942], 1: [984], 2: [392], 3: [676], 4: [746], 5: [280], 6: [46]}, Completo: True, Conexion: 10
+ID942, Vecinos: {0: [202], 1: [490], 2: [488], 3: [777]}, Completo: True, Conexion: 10
+ID202, Vecinos: {0: [430], 1: [0], 2: [3]}, Completo: False, Conexion: 3
+ID430, Vecinos: {0: [49]}, Completo: True, Conexion: 15
+ID49, Vecinos: {0: [787], 1: [898], 2: [1083], 3: [369]}, Completo: True, Conexion: 22
+ID787, Vecinos: {0: [672], 1: [56], 2: [971], 3: [15], 4: [493]}, Completo: True, Conexion: 24
+ID672, Vecinos: {0: [70], 1: [918], 2: [23]}, Completo: True, Conexion: 10
+ID70, Vecinos: {0: [555], 1: [716]}, Completo: True, Conexion: 15
+ID555, Vecinos: {0: [79], 1: [145], 2: [930], 3: [766], 4: [190], 5: [767], 6: [660]}, Completo: True, Conexion: 27
+ID79, Vecinos: {0: [882], 1: [1127], 2: [584]}, Completo: True, Conexion: 32
+ID882, Vecinos: {0: [105], 1: [463], 2: [181, 669], 3: [12], 4: [140]}, Completo: True, Conexion: 27
+ID105, Vecinos: {0: [151], 1: [1121], 2: [634], 3: [909]}, Completo: True, Conexion: 18
+ID151, Vecinos: {0: [251], 1: [41], 2: [457], 3: [491], 4: [322], 5: [869]}, Completo: True, Conexion: 10
+ID251, Vecinos: {0: [703], 1: [508]}, Completo: False, Conexion: 2
+ID703, Vecinos: {0: [114]}, Completo: True, Conexion: 7
+ID103, Vecinos: {0: [57], 1: [739], 2: [569], 3: [840]}, Completo: True, Conexion: 13
+ID57, Vecinos: {0: [503]}, Completo: True, Conexion: 11
+ID503, Vecinos: {0: [495], 1: [566], 2: [331], 3: [441], 4: [255], 5: [965]}, Completo: True, Conexion: 34
+ID495, Vecinos: {0: [801], 1: [727], 2: [392], 3: [683], 4: [706], 5: [545], 6: [529]}, Completo: True, Conexion: 20
+ID801, Vecinos: {0: [418], 1: [487], 2: [218], 3: [1058]}, Completo: True, Conexion: 10
+ID418, Vecinos: {0: [993], 1: [853], 2: [69], 3: [99], 4: [895]}, Completo: True, Conexion: 11
+ID993, Vecinos: {0: [241], 1: [1063], 2: [568], 3: [306], 4: [1145]}, Completo: True, Conexion: 10
+ID241, Vecinos: {0: [699], 1: [770], 2: [903]}, Completo: True, Conexion: 25
+ID699, Vecinos: {0: [867], 1: [764], 2: [167], 3: [771], 4: [149]}, Completo: True, Conexion: 17
+ID867, Vecinos: {0: [380]}, Completo: True, Conexion: 10
+ID808, Vecinos: {0: [615], 1: [6], 2: [896], 3: [355], 4: [119]}, Completo: True, Conexion: 17
+ID615, Vecinos: {0: [858], 1: [948], 2: [725], 3: [890], 4: [50]}, Completo: True, Conexion: 9
+ID858, Vecinos: {0: [1004], 1: [99], 2: [534]}, Completo: True, Conexion: 25
+ID1004, Vecinos: {0: [521], 1: [31], 2: [543], 3: [337], 4: [206]}, Completo: True, Conexion: 23
+ID521, Vecinos: {0: [105], 1: [412]}, Completo: True, Conexion: 17
+ID1121, Vecinos: {0: [681]}, Completo: True, Conexion: 37
+ID681, Vecinos: {0: [271], 1: [274], 2: [294], 3: [694]}, Completo: True, Conexion: 61
+ID271, Vecinos: {0: [852], 1: [903], 2: [334], 3: [453]}, Completo: True, Conexion: 29
+ID852, Vecinos: {0: [253], 1: [866], 2: [544], 3: [91]}, Completo: True, Conexion: 47
+ID253, Vecinos: {0: [558], 1: [114], 2: [426], 3: [958], 4: [470]}, Completo: True, Conexion: 23
+ID593, Vecinos: {0: [147], 1: [627], 2: [1028], 3: [439]}, Completo: True, Conexion: 51
+ID147, Vecinos: {0: [686], 1: [686], 2: [784], 3: [930], 4: [856], 5: [616]}, Completo: True, Conexion: 24
+ID686, Vecinos: {0: [281], 1: [234], 2: [748], 3: [1050]}, Completo: True, Conexion: 16
+ID281, Vecinos: {0: [690], 1: [156], 2: [652], 3: [178], 4: [84], 5: [1009]}, Completo: True, Conexion: 30
+ID690, Vecinos: {0: [549], 1: [932]}, Completo: True, Conexion: 10
+ID549, Vecinos: {0: [546]}, Completo: True, Conexion: 13
+ID546, Vecinos: {0: [646], 1: [600], 2: [923], 3: [519]}, Completo: True, Conexion: 21
+ID646, Vecinos: {0: [808], 1: [617], 2: [455], 3: [886], 4: [380]}, Completo: True, Conexion: 20
+ID342, Vecinos: {0: [1142], 1: [762]}, Completo: True, Conexion: 34
+ID1142, Vecinos: {0: [938], 1: [237], 2: [974]}, Completo: True, Conexion: 19
+ID938, Vecinos: {0: [190], 1: [205], 2: [1080], 3: [493]}, Completo: True, Conexion: 32
+ID190, Vecinos: {0: [1070], 1: [689], 2: [529], 3: [64], 4: [275], 5: [310], 6: [947]}, Completo: True, Conexion: 24
+ID1070, Vecinos: {0: [764], 1: [360], 2: [1007]}, Completo: True, Conexion: 14
+ID764, Vecinos: {0: [1008], 1: [102], 2: [885]}, Completo: True, Conexion: 18
+ID1008, Vecinos: {0: [880], 1: [936], 2: [1101], 3: [637], 4: [380], 5: [66]}, Completo: True, Conexion: 17
+ID880, Vecinos: {0: [623], 1: [682], 2: [474]}, Completo: True, Conexion: 3
+ID623, Vecinos: {0: [4], 1: [326], 2: [942], 3: [727], 4: [406]}, Completo: True, Conexion: 8
+ID4, Vecinos: {0: [600], 1: [972]}, Completo: True, Conexion: 12
+ID600, Vecinos: {0: [255], 1: [672], 2: [203], 3: [573], 4: [629], 5: [426], 6: [699]}, Completo: True, Conexion: 26
+ID255, Vecinos: {0: [210], 1: [1050], 2: [44], 3: [224]}, Completo: True, Conexion: 9
+ID210, Vecinos: {0: [785], 1: [1039], 2: [941], 3: [229]}, Completo: True, Conexion: 16
+ID785, Vecinos: {0: [728]}, Completo: True, Conexion: 17
+ID728, Vecinos: {0: [317], 1: [13], 2: [572], 3: [388]}, Completo: True, Conexion: 26
+ID317, Vecinos: {0: [278], 1: [931], 2: [1066]}, Completo: True, Conexion: 13
+ID214, Vecinos: {0: [144, 784], 1: [412], 2: [351], 3: [436], 4: [662]}, Completo: True, Conexion: 27
+ID894, Vecinos: {0: [62], 1: [87], 2: [841], 3: [1001]}, Completo: True, Conexion: 48
+ID62, Vecinos: {0: [376], 1: [384], 2: [283, 95], 3: [307], 4: [1099]}, Completo: True, Conexion: 19
+ID294, Vecinos: {0: [561]}, Completo: True, Conexion: 29
+ID561, Vecinos: {0: [702], 1: [505], 2: [1110], 3: [1082], 4: [694], 5: [756], 6: [64]}, Completo: True, Conexion: 49
+ID259, Vecinos: {0: [1101], 1: [758], 2: [443], 3: [331]}, Completo: True, Conexion: 30
+ID1001, Vecinos: {0: [2], 1: [1027], 2: [660], 3: [737]}, Completo: True, Conexion: 31
+ID2, Vecinos: {0: [674], 1: [44], 2: [137], 3: [502]}, Completo: True, Conexion: 10
+ID674, Vecinos: {0: [637], 1: [1108], 2: [1133], 3: [346], 4: [66], 5: [479]}, Completo: True, Conexion: 6
+ID637, Vecinos: {0: [613], 1: [753], 2: [676], 3: [659]}, Completo: False, Conexion: 4
+ID613, Vecinos: {0: [298], 1: [552]}, Completo: True, Conexion: 14
+ID298, Vecinos: {0: [283], 1: [695], 2: [434], 3: [626], 4: [634]}, Completo: True, Conexion: 16
+ID183, Vecinos: {0: [8], 1: [89]}, Completo: True, Conexion: 28
+ID8, Vecinos: {0: [751], 1: [113], 2: [1117], 3: [650]}, Completo: True, Conexion: 24
+ID326, Vecinos: {0: [400], 1: [1030], 2: [1048]}, Completo: True, Conexion: 39
+ID400, Vecinos: {0: [605]}, Completo: True, Conexion: 26
+ID605, Vecinos: {0: [446]}, Completo: True, Conexion: 50
+ID446, Vecinos: {0: [704]}, Completo: True, Conexion: 63
+ID1143, Vecinos: {0: [918], 1: [589], 2: [256], 3: [842]}, Completo: True, Conexion: 21
+ID918, Vecinos: {0: [976], 1: [670, 634], 2: [180]}, Completo: True, Conexion: 27
+ID976, Vecinos: {0: [821]}, Completo: True, Conexion: 26
+ID821, Vecinos: {0: [870], 1: [53]}, Completo: True, Conexion: 29
+ID870, Vecinos: {0: [1046], 1: [823, 270], 2: [386], 3: [138], 4: [1108], 5: [548]}, Completo: True, Conexion: 21
+ID1106, Vecinos: {0: [706], 1: [1030]}, Completo: True, Conexion: 13
+ID706, Vecinos: {0: [260], 1: [259], 2: [886], 3: [375], 4: [98], 5: [520], 6: [300]}, Completo: True, Conexion: 28
+ID767, Vecinos: {0: [16], 1: [912], 2: [652, 183], 3: [588], 4: [441]}, Completo: True, Conexion: 15
+ID16, Vecinos: {0: [1060], 1: [691], 2: [478], 3: [566], 4: [735]}, Completo: True, Conexion: 23
+ID1060, Vecinos: {0: [544]}, Completo: True, Conexion: 14
+ID544, Vecinos: {0: [452], 1: [1061], 2: [503], 3: [1044], 4: [359], 5: [751]}, Completo: True, Conexion: 31
+ID452, Vecinos: {0: [714], 1: [1021]}, Completo: True, Conexion: 19
+ID714, Vecinos: {0: [1133]}, Completo: True, Conexion: 9
+ID1133, Vecinos: {0: [1023], 1: [40], 2: [860]}, Completo: True, Conexion: 29
+ID1023, Vecinos: {0: [164], 1: [744], 2: [284], 3: [691], 4: [452], 5: [898], 6: [580]}, Completo: True, Conexion: 18
+ID164, Vecinos: {0: [756], 1: [442], 2: [61]}, Completo: True, Conexion: 11
+ID756, Vecinos: {0: [513], 1: [951], 2: [268], 3: [570]}, Completo: True, Conexion: 44
+ID513, Vecinos: {0: [675], 1: [108], 2: [1022], 3: [593], 4: [7], 5: [976]}, Completo: True, Conexion: 43
+ID675, Vecinos: {0: [294], 1: [733], 2: [82], 3: [922], 4: [451]}, Completo: True, Conexion: 15
+ID23, Vecinos: {0: [487], 1: [657], 2: [437], 3: [708], 4: [760], 5: [110]}, Completo: True, Conexion: 23
+ID487, Vecinos: {0: [42], 1: [94], 2: [496], 3: [844], 4: [502], 5: [1065], 6: [1117]}, Completo: True, Conexion: 10
+ID42, Vecinos: {0: [231], 1: [569], 2: [720], 3: [715]}, Completo: True, Conexion: 10
+ID429, Vecinos: {0: [417], 1: [266], 2: [929], 3: [647], 4: [139], 5: [455]}, Completo: True, Conexion: 11
+ID417, Vecinos: {0: [108], 1: [1004], 2: [1023], 3: [871]}, Completo: True, Conexion: 19
+ID655, Vecinos: {0: [46], 1: [38], 2: [688], 3: [940], 4: [315]}, Completo: True, Conexion: 18
+ID46, Vecinos: {0: [218], 1: [1068]}, Completo: True, Conexion: 11
+ID218, Vecinos: {0: [322], 1: [471]}, Completo: True, Conexion: 8
+ID322, Vecinos: {0: [184, 352], 1: [69]}, Completo: True, Conexion: 32
+ID1064, Vecinos: {0: [103], 1: [992], 2: [326], 3: [368], 4: [759], 5: [1079], 6: [664]}, Completo: True, Conexion: 26
+ID221, Vecinos: {0: [531], 1: [457], 2: [753]}, Completo: True, Conexion: 24
+ID531, Vecinos: {0: [471], 1: [1088], 2: [553], 3: [228]}, Completo: True, Conexion: 19
+ID471, Vecinos: {0: [89], 1: [589], 2: [789], 3: [312], 4: [277]}, Completo: True, Conexion: 10
+ID87, Vecinos: {0: [48], 1: [483], 2: [756], 3: [869]}, Completo: True, Conexion: 73
+ID48, Vecinos: {0: [941], 1: [1117], 2: [628], 3: [79], 4: [786], 5: [791, 1077], 6: [818]}, Completo: True, Conexion: 25
+ID941, Vecinos: {0: [379], 1: [953]}, Completo: True, Conexion: 20
+ID379, Vecinos: {0: [93], 1: [528], 2: [757], 3: [895], 4: [756], 5: [477], 6: [648]}, Completo: True, Conexion: 16
+ID93, Vecinos: {0: [760], 1: [919], 2: [877], 3: [134], 4: [315], 5: [1089]}, Completo: True, Conexion: 12
+ID760, Vecinos: {0: [845], 1: [768], 2: [570], 3: [738], 4: [513], 5: [881]}, Completo: True, Conexion: 18
+ID845, Vecinos: {0: [967], 1: [186], 2: [164], 3: [48], 4: [981], 5: [653]}, Completo: True, Conexion: 17
+ID967, Vecinos: {0: [763], 1: [240], 2: [1104]}, Completo: True, Conexion: 16
+ID763, Vecinos: {0: [1010]}, Completo: True, Conexion: 13
+ID1010, Vecinos: {0: [212], 1: [836], 2: [101], 3: [326], 4: [126], 5: [979]}, Completo: True, Conexion: 15
+ID212, Vecinos: {0: [1074]}, Completo: True, Conexion: 22
+ID1074, Vecinos: {0: [581]}, Completo: True, Conexion: 36
+ID581, Vecinos: {0: [363], 1: [792], 2: [70], 3: [416], 4: [135], 5: [86], 6: [833]}, Completo: True, Conexion: 51
+ID363, Vecinos: {0: [1067], 1: [300], 2: [1075], 3: [265], 4: [819], 5: [216]}, Completo: True, Conexion: 10
+ID1067, Vecinos: {0: [915], 1: [897]}, Completo: True, Conexion: 4
+ID915, Vecinos: {0: [773], 1: [435]}, Completo: True, Conexion: 11
+ID773, Vecinos: {0: [1025], 1: [499], 2: [959], 3: [1008], 4: [789]}, Completo: True, Conexion: 23
+ID1025, Vecinos: {0: [195], 1: [1035], 2: [193], 3: [532], 4: [445], 5: [1037]}, Completo: True, Conexion: 34
+ID195, Vecinos: {0: [548], 1: [627], 2: [25]}, Completo: True, Conexion: 26
+ID548, Vecinos: {0: [806], 1: [265], 2: [983], 3: [995]}, Completo: True, Conexion: 28
+ID806, Vecinos: {0: [1121]}, Completo: True, Conexion: 19
+ID274, Vecinos: {0: [197], 1: [869], 2: [954]}, Completo: True, Conexion: 29
+ID197, Vecinos: {0: [183], 1: [524], 2: [310], 3: [822]}, Completo: True, Conexion: 27
+ID566, Vecinos: {0: [37], 1: [1075]}, Completo: True, Conexion: 34
+ID37, Vecinos: {0: [246]}, Completo: True, Conexion: 30
+ID246, Vecinos: {0: [292], 1: [357], 2: [565], 3: [513], 4: [792]}, Completo: True, Conexion: 51
+ID292, Vecinos: {0: [872], 1: [317], 2: [134], 3: [37], 4: [102], 5: [264], 6: [701]}, Completo: True, Conexion: 17
+ID872, Vecinos: {0: [1076], 1: [300], 2: [747], 3: [118]}, Completo: True, Conexion: 20
+ID1076, Vecinos: {0: [796], 1: [389]}, Completo: True, Conexion: 18
+ID796, Vecinos: {0: [438], 1: [1051], 2: [182]}, Completo: True, Conexion: 12
+ID438, Vecinos: {0: [1002], 1: [696], 2: [985], 3: [262], 4: [932], 5: [163]}, Completo: True, Conexion: 16
+ID1002, Vecinos: {0: [1106], 1: [995], 2: [614], 3: [887], 4: [427], 5: [604]}, Completo: True, Conexion: 12
+ID476, Vecinos: {0: [384], 1: [865], 2: [162], 3: [1100], 4: [311], 5: [1025]}, Completo: True, Conexion: 41
+ID267, Vecinos: {0: [336], 1: [817], 2: [47], 3: [438], 4: [16]}, Completo: True, Conexion: 42
+ID336, Vecinos: {0: [865], 1: [820], 2: [973]}, Completo: True, Conexion: 40
+ID865, Vecinos: {0: [592], 1: [1], 2: [704]}, Completo: True, Conexion: 36
+ID592, Vecinos: {0: [666], 1: [477], 2: [587], 3: [67], 4: [553], 5: [997]}, Completo: True, Conexion: 29
+ID666, Vecinos: {0: [162], 1: [680], 2: [222], 3: [756], 4: [247]}, Completo: False, Conexion: 5
+ID162, Vecinos: {0: [524], 1: [289], 2: [360], 3: [1085], 4: [489], 5: [1134], 6: [163]}, Completo: True, Conexion: 11
+ID524, Vecinos: {0: [287], 1: [456], 2: [83], 3: [667], 4: [311]}, Completo: True, Conexion: 23
+ID663, Vecinos: {0: [994], 1: [648], 2: [262], 3: [388], 4: [397]}, Completo: True, Conexion: 32
+ID994, Vecinos: {0: [873], 1: [670], 2: [505], 3: [41], 4: [1085], 5: [482]}, Completo: True, Conexion: 21
+ID873, Vecinos: {0: [396], 1: [993], 2: [525], 3: [865], 4: [1075], 5: [715], 6: [775]}, Completo: True, Conexion: 25
+ID396, Vecinos: {0: [629], 1: [887], 2: [1024], 3: [821], 4: [395], 5: [239], 6: [4]}, Completo: True, Conexion: 12
+ID629, Vecinos: {0: [924], 1: [334], 2: [524], 3: [1102], 4: [1093], 5: [1101]}, Completo: True, Conexion: 9
+ID924, Vecinos: {0: [517], 1: [734], 2: [248], 3: [339]}, Completo: True, Conexion: 20
+ID717, Vecinos: {0: [890], 1: [171], 2: [167], 3: [350], 4: [578], 5: [905], 6: [766]}, Completo: True, Conexion: 16
+ID890, Vecinos: {0: [187, 322], 1: [342], 2: [681]}, Completo: True, Conexion: 10
+ID961, Vecinos: {0: [83], 1: [1095], 2: [964], 3: [315]}, Completo: True, Conexion: 24
+ID83, Vecinos: {0: [951], 1: [141], 2: [927], 3: [37]}, Completo: True, Conexion: 14
+ID129, Vecinos: {0: [852], 1: [797], 2: [1045], 3: [606, 479]}, Completo: True, Conexion: 18
+ID370, Vecinos: {0: [1001], 1: [146], 2: [608], 3: [1083], 4: [927], 5: [77], 6: [437]}, Completo: True, Conexion: 24
+ID356, Vecinos: {0: [593], 1: [1088]}, Completo: True, Conexion: 48
+ID171, Vecinos: {0: [433], 1: [787], 2: [1026], 3: [112], 4: [299]}, Completo: True, Conexion: 64
+ID433, Vecinos: {0: [766], 1: [997], 2: [212], 3: [209], 4: [466]}, Completo: True, Conexion: 23
+ID766, Vecinos: {0: [84], 1: [937], 2: [508], 3: [316], 4: [236]}, Completo: True, Conexion: 16
+ID84, Vecinos: {0: [1117], 1: [543], 2: [342], 3: [664], 4: [212]}, Completo: True, Conexion: 31
+ID1117, Vecinos: {0: [1], 1: [774], 2: [938], 3: [711, 168], 4: [392], 5: [1052]}, Completo: True, Conexion: 27
+ID1, Vecinos: {0: [1144], 1: [476], 2: [893], 3: [86], 4: [369], 5: [347]}, Completo: True, Conexion: 33
+ID1144, Vecinos: {0: [767], 1: [528], 2: [1007], 3: [1005]}, Completo: True, Conexion: 6
+ID989, Vecinos: {0: [938, 85], 1: [630]}, Completo: True, Conexion: 32
+ID1026, Vecinos: {0: [792], 1: [295], 2: [688], 3: [1055]}, Completo: True, Conexion: 24
+ID792, Vecinos: {0: [857], 1: [985], 2: [599], 3: [603], 4: [331]}, Completo: True, Conexion: 30
+ID857, Vecinos: {0: [333]}, Completo: True, Conexion: 12
+ID333, Vecinos: {0: [954], 1: [446], 2: [809], 3: [852], 4: [937]}, Completo: True, Conexion: 29
+ID954, Vecinos: {0: [612], 1: [728], 2: [495], 3: [650], 4: [376], 5: [850], 6: [845]}, Completo: True, Conexion: 28
+ID612, Vecinos: {0: [331], 1: [801], 2: [357], 3: [46], 4: [477], 5: [621], 6: [971]}, Completo: True, Conexion: 7
+ID331, Vecinos: {0: [262], 1: [724], 2: [1091], 3: [811], 4: [253]}, Completo: True, Conexion: 35
+ID262, Vecinos: {0: [273], 1: [25], 2: [390], 3: [1130]}, Completo: True, Conexion: 16
+ID273, Vecinos: {0: [344], 1: [380], 2: [565], 3: [261]}, Completo: True, Conexion: 5
+ID344, Vecinos: {0: [922], 1: [125]}, Completo: True, Conexion: 3
+ID922, Vecinos: {0: [884], 1: [868]}, Completo: True, Conexion: 7
+ID926, Vecinos: {0: [1122], 1: [990], 2: [383]}, Completo: True, Conexion: 10
+ID1122, Vecinos: {0: [538], 1: [1135], 2: [1137], 3: [147], 4: [991], 5: [110], 6: [621]}, Completo: True, Conexion: 10
+ID538, Vecinos: {0: [641], 1: [474], 2: [734], 3: [45], 4: [222], 5: [914]}, Completo: True, Conexion: 8
+ID641, Vecinos: {0: [1083], 1: [144], 2: [1102], 3: [333], 4: [55], 5: [900]}, Completo: True, Conexion: 16
+ID1083, Vecinos: {0: [889], 1: [446], 2: [359], 3: [626], 4: [253], 5: [330], 6: [521]}, Completo: True, Conexion: 17
+ID889, Vecinos: {0: [775], 1: [61]}, Completo: True, Conexion: 7
+ID775, Vecinos: {0: [14], 1: [491], 2: [581], 3: [384]}, Completo: True, Conexion: 8
+ID1035, Vecinos: {0: [737], 1: [424], 2: [841], 3: [65]}, Completo: True, Conexion: 14
+ID737, Vecinos: {0: [576], 1: [409]}, Completo: True, Conexion: 19
+ID576, Vecinos: {0: [919], 1: [541], 2: [447], 3: [249], 4: [758], 5: [114]}, Completo: True, Conexion: 23
+ID919, Vecinos: {0: [713]}, Completo: True, Conexion: 26
+ID713, Vecinos: {0: [205], 1: [313], 2: [1018], 3: [919], 4: [145], 5: [185]}, Completo: True, Conexion: 26
+ID602, Vecinos: {0: [326], 1: [930], 2: [153]}, Completo: True, Conexion: 13
+ID188, Vecinos: {0: [154], 1: [659]}, Completo: True, Conexion: 46
+ID154, Vecinos: {0: [365]}, Completo: True, Conexion: 40
+ID365, Vecinos: {0: [327], 1: [281], 2: [576], 3: [642], 4: [389], 5: [1007], 6: [512]}, Completo: True, Conexion: 54
+ID327, Vecinos: {0: [986], 1: [1017], 2: [1065]}, Completo: True, Conexion: 13
+ID986, Vecinos: {0: [570]}, Completo: True, Conexion: 13
+ID570, Vecinos: {0: [606], 1: [818], 2: [434], 3: [963], 4: [620], 5: [51]}, Completo: True, Conexion: 30
+ID606, Vecinos: {0: [625, 185, 307], 1: [280], 2: [956]}, Completo: True, Conexion: 11
+ID625, Vecinos: {0: [226], 1: [1009], 2: [1140], 3: [115], 4: [758]}, Completo: True, Conexion: 34
+ID226, Vecinos: {0: [659]}, Completo: True, Conexion: 7
+ID659, Vecinos: {0: [214], 1: [933], 2: [755], 3: [914]}, Completo: True, Conexion: 45
+ID412, Vecinos: {0: [300]}, Completo: True, Conexion: 20
+ID831, Vecinos: {0: [551], 1: [852], 2: [423], 3: [711], 4: [964]}, Completo: True, Conexion: 12
+ID930, Vecinos: {0: [717], 1: [1102], 2: [305], 3: [530]}, Completo: True, Conexion: 24
+ID96, Vecinos: {0: [383], 1: [1078], 2: [434]}, Completo: True, Conexion: 8
+ID383, Vecinos: {0: [831], 1: [873], 2: [1124], 3: [526], 4: [780], 5: [575], 6: [804]}, Completo: True, Conexion: 15
+ID762, Vecinos: {0: [476], 1: [356], 2: [605], 3: [906]}, Completo: True, Conexion: 42
+ID289, Vecinos: {0: [655], 1: [813], 2: [1024], 3: [18]}, Completo: True, Conexion: 13
+ID12, Vecinos: {0: [598]}, Completo: True, Conexion: 13
+ID598, Vecinos: {0: [356], 1: [350], 2: [999], 3: [503], 4: [139], 5: [319], 6: [661]}, Completo: True, Conexion: 24
+ID295, Vecinos: {0: [422]}, Completo: True, Conexion: 47
+ID992, Vecinos: {0: [995], 1: [752, 725], 2: [643], 3: [1017]}, Completo: True, Conexion: 29
+ID9, Vecinos: {0: [237], 1: [527], 2: [885], 3: [1017], 4: [826]}, Completo: True, Conexion: 15
+ID237, Vecinos: {0: [185], 1: [910], 2: [427], 3: [856]}, Completo: True, Conexion: 9
+ID185, Vecinos: {0: [613], 1: [452], 2: [724], 3: [287], 4: [581], 5: [821], 6: [289]}, Completo: True, Conexion: 12
+ID590, Vecinos: {0: [557], 1: [304], 2: [915], 3: [476], 4: [833], 5: [995], 6: [381]}, Completo: True, Conexion: 21
+ID557, Vecinos: {0: [21], 1: [830]}, Completo: True, Conexion: 10
+ID21, Vecinos: {0: [707]}, Completo: True, Conexion: 10
+ID707, Vecinos: {0: [966], 1: [1014], 2: [1103], 3: [1096]}, Completo: True, Conexion: 28
+ID966, Vecinos: {0: [479], 1: [996], 2: [1117], 3: [469], 4: [772]}, Completo: True, Conexion: 18
+ID479, Vecinos: {0: [9], 1: [981], 2: [600], 3: [377], 4: [913], 5: [884]}, Completo: True, Conexion: 29
+ID829, Vecinos: {0: [842], 1: [898], 2: [439], 3: [307], 4: [531], 5: [369], 6: [691]}, Completo: True, Conexion: 21
+ID842, Vecinos: {0: [254], 1: [818], 2: [403], 3: [146], 4: [818]}, Completo: True, Conexion: 12
+ID254, Vecinos: {0: [800], 1: [707], 2: [923], 3: [297], 4: [52]}, Completo: True, Conexion: 21
+ID800, Vecinos: {0: [75], 1: [661], 2: [808], 3: [291], 4: [807]}, Completo: True, Conexion: 15
+ID75, Vecinos: {0: [87], 1: [109], 2: [711]}, Completo: True, Conexion: 6
+ID99, Vecinos: {0: [590], 1: [488]}, Completo: True, Conexion: 31
+ID543, Vecinos: {0: [591], 1: [737], 2: [356], 3: [331], 4: [205], 5: [701], 6: [216]}, Completo: True, Conexion: 25
+ID591, Vecinos: {0: [961]}, Completo: True, Conexion: 5
+ID1095, Vecinos: {0: [148]}, Completo: True, Conexion: 23
+ID148, Vecinos: {0: [268], 1: [961], 2: [979], 3: [1008]}, Completo: True, Conexion: 29
+ID268, Vecinos: {0: [1034], 1: [216], 2: [835]}, Completo: True, Conexion: 23
+ID1034, Vecinos: {0: [398], 1: [192], 2: [700], 3: [497], 4: [143]}, Completo: True, Conexion: 12
+ID398, Vecinos: {0: [447], 1: [1111], 2: [1106]}, Completo: True, Conexion: 4
+ID447, Vecinos: {0: [1097], 1: [908]}, Completo: True, Conexion: 13
+ID1097, Vecinos: {0: [619], 1: [230], 2: [994]}, Completo: True, Conexion: 18
+ID619, Vecinos: {0: [962], 1: [711]}, Completo: True, Conexion: 24
+ID962, Vecinos: {0: [340], 1: [510], 2: [982], 3: [852], 4: [1002], 5: [78], 6: [300]}, Completo: True, Conexion: 14
+ID340, Vecinos: {0: [1080], 1: [635], 2: [113], 3: [281], 4: [700], 5: [1098]}, Completo: True, Conexion: 35
+ID759, Vecinos: {0: [625], 1: [844], 2: [286]}, Completo: True, Conexion: 34
+ID512, Vecinos: {0: [236]}, Completo: True, Conexion: 26
+ID236, Vecinos: {0: [656], 1: [1007], 2: [1006], 3: [47], 4: [0], 5: [834], 6: [712]}, Completo: True, Conexion: 32
+ID656, Vecinos: {0: [537], 1: [568], 2: [729], 3: [54]}, Completo: True, Conexion: 10
+ID537, Vecinos: {0: [634], 1: [949], 2: [435]}, Completo: False, Conexion: 3
+ID634, Vecinos: {0: [628]}, Completo: True, Conexion: 35
+ID628, Vecinos: {0: [50], 1: [891], 2: [368], 3: [121], 4: [587], 5: [665], 6: [34]}, Completo: True, Conexion: 42
+ID50, Vecinos: {0: [189], 1: [709], 2: [801]}, Completo: True, Conexion: 19
+ID189, Vecinos: {0: [357], 1: [956]}, Completo: True, Conexion: 16
+ID357, Vecinos: {0: [395], 1: [544], 2: [646], 3: [1131], 4: [1088]}, Completo: True, Conexion: 26
+ID395, Vecinos: {0: [177]}, Completo: True, Conexion: 32
+ID177, Vecinos: {0: [582], 1: [258], 2: [378], 3: [329]}, Completo: True, Conexion: 32
+ID582, Vecinos: {0: [814, 348, 949], 1: [1134]}, Completo: True, Conexion: 8
+ID1096, Vecinos: {0: [847]}, Completo: True, Conexion: 37
+ID847, Vecinos: {0: [171]}, Completo: True, Conexion: 41
+ID583, Vecinos: {0: [909]}, Completo: True, Conexion: 26
+ID909, Vecinos: {0: [436], 1: [765], 2: [512], 3: [868], 4: [1044], 5: [76], 6: [287]}, Completo: True, Conexion: 43
+ID436, Vecinos: {0: [470], 1: [173], 2: [546], 3: [865], 4: [373], 5: [528]}, Completo: True, Conexion: 12
+ID470, Vecinos: {0: [1048]}, Completo: True, Conexion: 15
+ID391, Vecinos: {0: [458], 1: [141], 2: [292], 3: [372], 4: [622], 5: [760]}, Completo: True, Conexion: 7
+ID458, Vecinos: {0: [291], 1: [238], 2: [603]}, Completo: True, Conexion: 3
+ID291, Vecinos: {0: [411]}, Completo: True, Conexion: 22
+ID411, Vecinos: {0: [1064], 1: [252], 2: [654], 3: [415], 4: [609], 5: [592]}, Completo: True, Conexion: 31
+ID647, Vecinos: {0: [1053], 1: [419], 2: [336], 3: [342]}, Completo: True, Conexion: 25
+ID1053, Vecinos: {0: [651], 1: [668], 2: [257], 3: [936], 4: [127], 5: [445], 6: [856]}, Completo: True, Conexion: 8
+ID564, Vecinos: {0: [299], 1: [818], 2: [638], 3: [864]}, Completo: True, Conexion: 14
+ID774, Vecinos: {0: [61], 1: [148], 2: [502], 3: [926]}, Completo: True, Conexion: 7
+ID61, Vecinos: {0: [1038], 1: [1046], 2: [520]}, Completo: True, Conexion: 21
+ID1038, Vecinos: {0: [683], 1: [724], 2: [1125], 3: [706], 4: [71], 5: [660], 6: [574]}, Completo: True, Conexion: 17
+ID683, Vecinos: {0: [221]}, Completo: True, Conexion: 8
+ID303, Vecinos: {0: [535], 1: [740]}, Completo: True, Conexion: 12
+ID535, Vecinos: {0: [940], 1: [557], 2: [589], 3: [593]}, Completo: True, Conexion: 20
+ID940, Vecinos: {0: [779], 1: [922], 2: [42], 3: [22], 4: [511]}, Completo: True, Conexion: 8
+ID779, Vecinos: {0: [0], 1: [623], 2: [730], 3: [1131], 4: [291]}, Completo: True, Conexion: 33
+ID475, Vecinos: {0: [188]}, Completo: True, Conexion: 36
+ID316, Vecinos: {0: [1071]}, Completo: True, Conexion: 25
+ID1071, Vecinos: {0: [351], 1: [959], 2: [974], 3: [900], 4: [923]}, Completo: True, Conexion: 33
+ID351, Vecinos: {0: [680], 1: [454], 2: [430], 3: [189]}, Completo: True, Conexion: 16
+ID680, Vecinos: {0: [259], 1: [173], 2: [775], 3: [625], 4: [253]}, Completo: True, Conexion: 7
+ID841, Vecinos: {0: [595], 1: [871], 2: [404], 3: [164], 4: [573], 5: [182]}, Completo: True, Conexion: 29
+ID595, Vecinos: {0: [749], 1: [815], 2: [24], 3: [628], 4: [574], 5: [36, 64], 6: [1083]}, Completo: True, Conexion: 14
+ID749, Vecinos: {0: [338], 1: [50]}, Completo: True, Conexion: 5
+ID338, Vecinos: {0: [750], 1: [969], 2: [253], 3: [615], 4: [866]}, Completo: True, Conexion: 6
+ID750, Vecinos: {0: [200], 1: [188], 2: [552], 3: [209], 4: [250]}, Completo: True, Conexion: 10
+ID200, Vecinos: {0: [635], 1: [430], 2: [505]}, Completo: True, Conexion: 11
+ID635, Vecinos: {0: [337], 1: [615], 2: [325], 3: [61], 4: [1075]}, Completo: True, Conexion: 18
+ID337, Vecinos: {0: [663]}, Completo: True, Conexion: 13
+ID643, Vecinos: {0: [1085], 1: [1065], 2: [885], 3: [944], 4: [734]}, Completo: True, Conexion: 23
+ID265, Vecinos: {0: [1095], 1: [405]}, Completo: True, Conexion: 20
+ID964, Vecinos: {0: [575], 1: [1036], 2: [651]}, Completo: True, Conexion: 12
+ID575, Vecinos: {0: [99], 1: [625]}, Completo: True, Conexion: 26
+ID1029, Vecinos: {0: [974], 1: [780], 2: [648], 3: [541], 4: [53], 5: [772], 6: [622]}, Completo: True, Conexion: 16
+ID974, Vecinos: {0: [534], 1: [261], 2: [641], 3: [523], 4: [659], 5: [1132]}, Completo: True, Conexion: 22
+ID534, Vecinos: {0: [303], 1: [1055], 2: [103], 3: [176], 4: [369], 5: [242]}, Completo: True, Conexion: 29
+ID1028, Vecinos: {0: [289], 1: [589]}, Completo: True, Conexion: 20
+ID179, Vecinos: {0: [1035], 1: [650], 2: [744], 3: [395], 4: [260], 5: [909]}, Completo: True, Conexion: 19
+ID341, Vecinos: {0: [583], 1: [475], 2: [206]}, Completo: True, Conexion: 28
+ID1007, Vecinos: {0: [196], 1: [1063], 2: [327], 3: [9], 4: [169], 5: [813], 6: [777]}, Completo: True, Conexion: 32
+ID196, Vecinos: {0: [507]}, Completo: True, Conexion: 14
+ID507, Vecinos: {0: [453], 1: [62], 2: [942], 3: [873], 4: [542], 5: [1042]}, Completo: True, Conexion: 14
+ID453, Vecinos: {0: [848], 1: [799]}, Completo: True, Conexion: 15
+ID848, Vecinos: {0: [265], 1: [10], 2: [411]}, Completo: True, Conexion: 18
+ID879, Vecinos: {0: [101], 1: [254], 2: [492]}, Completo: True, Conexion: 15
+ID101, Vecinos: {0: [154, 1110], 1: [987], 2: [929], 3: [644], 4: [150]}, Completo: True, Conexion: 28
+ID388, Vecinos: {0: [899], 1: [597], 2: [79], 3: [1], 4: [162], 5: [1000], 6: [573]}, Completo: True, Conexion: 21
+ID899, Vecinos: {0: [129], 1: [1102], 2: [1000]}, Completo: False, Conexion: 3
+ID797, Vecinos: {0: [935], 1: [113], 2: [688], 3: [567]}, Completo: True, Conexion: 22
+ID935, Vecinos: {0: [1025, 542], 1: [989]}, Completo: True, Conexion: 13
+ID193, Vecinos: {0: [82]}, Completo: True, Conexion: 23
+ID82, Vecinos: {0: [992], 1: [195], 2: [697]}, Completo: True, Conexion: 30
+ID392, Vecinos: {0: [271], 1: [497], 2: [1049, 700]}, Completo: True, Conexion: 31
+ID1068, Vecinos: {0: [894]}, Completo: True, Conexion: 30
+ID597, Vecinos: {0: [193], 1: [10, 180], 2: [904], 3: [111], 4: [1020], 5: [316]}, Completo: True, Conexion: 15
+ID599, Vecinos: {0: [1007], 1: [930], 2: [65], 3: [193], 4: [580], 5: [742], 6: [206]}, Completo: True, Conexion: 16
+ID222, Vecinos: {0: [543], 1: [32]}, Completo: True, Conexion: 22
+ID877, Vecinos: {0: [328], 1: [782], 2: [547], 3: [354]}, Completo: True, Conexion: 17
+ID328, Vecinos: {0: [250], 1: [1140]}, Completo: True, Conexion: 5
+ID250, Vecinos: {0: [274], 1: [955], 2: [291], 3: [412], 4: [420]}, Completo: True, Conexion: 22
+ID711, Vecinos: {0: [1068], 1: [1022], 2: [431, 710]}, Completo: True, Conexion: 34
+ID1052, Vecinos: {0: [222], 1: [725], 2: [331]}, Completo: True, Conexion: 12
+ID15, Vecinos: {0: [243], 1: [130], 2: [740], 3: [1102], 4: [384], 5: [369], 6: [26]}, Completo: True, Conexion: 21
+ID243, Vecinos: {0: [1052], 1: [529], 2: [126], 3: [894], 4: [60], 5: [1005]}, Completo: True, Conexion: 8
+ID676, Vecinos: {0: [475]}, Completo: True, Conexion: 10
+ID657, Vecinos: {0: [267]}, Completo: True, Conexion: 19
+ID520, Vecinos: {0: [316], 1: [309], 2: [183], 3: [467], 4: [469], 5: [1096]}, Completo: True, Conexion: 27
+ID139, Vecinos: {0: [341], 1: [894]}, Completo: True, Conexion: 18
+ID818, Vecinos: {0: [657], 1: [246], 2: [152], 3: [196]}, Completo: True, Conexion: 28
+ID671, Vecinos: {0: [818], 1: [543], 2: [600], 3: [741]}, Completo: True, Conexion: 7
+ID644, Vecinos: {0: [468]}, Completo: True, Conexion: 13
+ID468, Vecinos: {0: [132], 1: [317], 2: [227], 3: [400], 4: [311], 5: [1029], 6: [1091]}, Completo: True, Conexion: 20
+ID132, Vecinos: {0: [920], 1: [1090], 2: [467], 3: [173], 4: [878], 5: [22]}, Completo: True, Conexion: 7
+ID920, Vecinos: {0: [841], 1: [845], 2: [249], 3: [575], 4: [268]}, Completo: True, Conexion: 21
+ID374, Vecinos: {0: [1138], 1: [28], 2: [902], 3: [954], 4: [340], 5: [875], 6: [492]}, Completo: True, Conexion: 11
+ID1138, Vecinos: {0: [161], 1: [703], 2: [403], 3: [121], 4: [161]}, Completo: True, Conexion: 12
+ID161, Vecinos: {0: [159], 1: [611]}, Completo: True, Conexion: 8
+ID159, Vecinos: {0: [1049], 1: [1100], 2: [622], 3: [746]}, Completo: True, Conexion: 12
+ID1049, Vecinos: {0: [647], 1: [451], 2: [520], 3: [311]}, Completo: True, Conexion: 10
+ID630, Vecinos: {0: [374], 1: [1042], 2: [408], 3: [924], 4: [1017], 5: [852]}, Completo: True, Conexion: 22
+ID117, Vecinos: {0: [667], 1: [140]}, Completo: True, Conexion: 20
+ID667, Vecinos: {0: [762], 1: [763], 2: [64], 3: [1001], 4: [338]}, Completo: True, Conexion: 16
+ID497, Vecinos: {0: [117]}, Completo: True, Conexion: 16
+ID290, Vecinos: {0: [520], 1: [907], 2: [350], 3: [138], 4: [657], 5: [402], 6: [302]}, Completo: True, Conexion: 13
+ID736, Vecinos: {0: [227], 1: [340]}, Completo: True, Conexion: 7
+ID227, Vecinos: {0: [472], 1: [76]}, Completo: True, Conexion: 9
+ID472, Vecinos: {0: [392], 1: [466], 2: [585], 3: [127], 4: [685], 5: [1033]}, Completo: True, Conexion: 8
+ID1125, Vecinos: {0: [429]}, Completo: True, Conexion: 5
+ID280, Vecinos: {0: [1029], 1: [568], 2: [865]}, Completo: True, Conexion: 11
+ID828, Vecinos: {0: [1096], 1: [634]}, Completo: True, Conexion: 9
+ID386, Vecinos: {0: [1125], 1: [75], 2: [897], 3: [998]}, Completo: False, Conexion: 4
+ID1118, Vecinos: {0: [139], 1: [905], 2: [100]}, Completo: True, Conexion: 9
+ID1134, Vecinos: {0: [828]}, Completo: True, Conexion: 5
+ID377, Vecinos: {0: [370]}, Completo: True, Conexion: 8
+ID500, Vecinos: {0: [930], 1: [705], 2: [912], 3: [141], 4: [33], 5: [617], 6: [418]}, Completo: True, Conexion: 7
